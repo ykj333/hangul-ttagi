@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fffdf7;
+  --foreground: #1f2937;
+}
+
+html,
+body {
+  overscroll-behavior: none;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family:
+    var(--font-jua),
+    "Malgun Gothic",
+    "Apple SD Gothic Neo",
+    "Segoe UI",
+    sans-serif;
+}
+
+/* 게임용: 텍스트 선택/탭 하이라이트 방지 */
+.no-select {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-14px);
+  }
+}
+
+@keyframes wiggle {
+  0%,
+  100% {
+    transform: rotate(-5deg);
+  }
+  50% {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  80% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-8px);
+  }
+  75% {
+    transform: translateX(8px);
+  }
+}
+
+@keyframes bounce-slow {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 3.5s ease-in-out infinite;
+}
+.animate-wiggle {
+  animation: wiggle 2.4s ease-in-out infinite;
+}
+.animate-pop {
+  animation: pop 0.35s ease-out both;
+}
+.animate-shake {
+  animation: shake 0.3s ease-in-out 2;
+}
+.animate-bounce-slow {
+  animation: bounce-slow 2s ease-in-out infinite;
+}
