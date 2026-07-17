@@ -1,0 +1,206 @@
+.loading-card {
+  display: flex;
+  min-height: 13rem;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  color: var(--text-secondary);
+}
+
+.loading-card__dot {
+  width: 0.8rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--accent-blue);
+  animation: loading-pulse 900ms ease-in-out infinite alternate;
+}
+
+.quiz-card,
+.result-card {
+  padding: clamp(1rem, 4vw, 2rem);
+}
+
+.quiz-progress {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+}
+
+.quiz-progress ol {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: var(--space-2);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.quiz-progress li {
+  height: 0.55rem;
+  border-radius: 999px;
+  background: #dfe6f3;
+}
+
+.quiz-progress li[data-state="done"] {
+  background: var(--status-success);
+}
+
+.quiz-progress li[data-state="current"] {
+  background: var(--accent-blue);
+  box-shadow: 0 0 0 0.2rem rgb(84 136 232 / 15%);
+}
+
+.star-count {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: var(--space-1);
+  min-width: 3.5rem;
+  justify-content: center;
+  padding: var(--space-2) var(--space-3);
+  border-radius: 999px;
+  background: #fff3c8;
+  color: #95641b;
+}
+
+.star-count svg {
+  width: 1.1rem;
+  fill: #ffd76a;
+}
+
+.listen-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-4);
+  width: 100%;
+  margin-top: var(--space-6);
+  padding: var(--space-5);
+  border: 0.1rem solid #d5e3fb;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, #eef6ff, #f5f0ff);
+  color: var(--text-primary);
+  text-align: left;
+  cursor: pointer;
+  transition: transform 120ms ease, border-color 120ms ease;
+}
+
+.listen-card:hover {
+  border-color: var(--accent-blue);
+  transform: translateY(-0.15rem);
+}
+
+.listen-card:active {
+  transform: scale(0.985);
+}
+
+.listen-card__icon {
+  display: grid;
+  width: 4rem;
+  aspect-ratio: 1;
+  place-items: center;
+  border-radius: 1.25rem;
+  background: var(--accent-blue);
+  color: white;
+  box-shadow: 0 0.5rem 1.25rem rgb(84 136 232 / 25%);
+}
+
+.listen-card__icon svg {
+  width: 2rem;
+}
+
+.listen-card strong,
+.listen-card small {
+  display: block;
+}
+
+.listen-card strong {
+  font-size: clamp(1.2rem, 3.8vw, 1.6rem);
+  font-weight: 400;
+  line-height: 1.35;
+  word-break: keep-all;
+}
+
+.listen-card small {
+  margin-top: var(--space-1);
+  color: var(--text-secondary);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 0.88rem;
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+  margin-top: var(--space-6);
+}
+
+.quiz-option {
+  position: relative;
+  display: flex;
+  min-height: 8.75rem;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4);
+  border: 0.12rem solid var(--border-soft);
+  border-radius: var(--radius-lg);
+  background: white;
+  color: var(--text-primary);
+  font-size: clamp(3.1rem, 11vw, 4.6rem);
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow-soft);
+  transition: transform 120ms ease, border-color 120ms ease, background 120ms ease;
+}
+
+.quiz-option:hover:not(:disabled) {
+  border-color: var(--accent-blue);
+  background: #f7faff;
+  transform: translateY(-0.2rem);
+}
+
+.quiz-option:active:not(:disabled) {
+  transform: scale(0.96);
+}
+
+.quiz-option span {
+  position: absolute;
+  right: var(--space-3);
+  bottom: var(--space-3);
+  left: var(--space-3);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 0.78rem;
+  line-height: 1.3;
+  text-align: center;
+}
+
+.quiz-option[data-state="correct"] {
+  border-color: var(--status-success);
+  background: #def5e9;
+  color: #1f7958;
+  animation: answer-pop 300ms ease-out both;
+}
+
+.quiz-option[data-state="wrong"] {
+  border-color: var(--status-error);
+  background: #fff0f3;
+  color: var(--status-error);
+  animation: answer-shake 280ms ease-in-out 2;
+}
+
+.quiz-option:disabled:not([data-state="correct"]) {
+  cursor: default;
+  opacity: 0.58;
+}
+
+.quiz-status {
+  min-height: 1.6rem;
+  margin: var(--space-4) 0 0;
+  color: var(--status-error);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 0.9rem;
+  text-align: center;
+  word-break: keep-all;
+}

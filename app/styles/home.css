@@ -1,0 +1,237 @@
+.home-shell {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  grid-template-columns: minmax(0, 0.86fr) minmax(30rem, 1.14fr);
+  grid-template-areas:
+    "hero activities"
+    "note activities";
+  align-content: center;
+  gap: var(--space-8) clamp(3rem, 7vw, 7rem);
+  min-height: 100dvh;
+  padding: clamp(2rem, 6vw, 5rem);
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 8% 12%, rgb(84 136 232 / 18%), transparent 30%),
+    radial-gradient(circle at 88% 86%, rgb(236 111 145 / 16%), transparent 28%),
+    linear-gradient(145deg, var(--surface-sky), var(--surface-canvas) 48%, #fff4e3);
+}
+
+.home-shell::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -8rem;
+  right: 14%;
+  width: 22rem;
+  aspect-ratio: 1;
+  border: 2.5rem solid rgb(255 255 255 / 55%);
+  border-radius: 48% 52% 62% 38%;
+  transform: rotate(18deg);
+}
+
+.home-orbit {
+  position: absolute;
+  z-index: -1;
+  border-radius: 999px;
+  border: 0.12rem solid rgb(84 136 232 / 18%);
+  pointer-events: none;
+}
+
+.home-orbit--one {
+  top: 10%;
+  left: 3%;
+  width: 8rem;
+  height: 3rem;
+  transform: rotate(-22deg);
+}
+
+.home-orbit--two {
+  right: 2%;
+  bottom: 12%;
+  width: 11rem;
+  height: 4rem;
+  border-color: rgb(236 111 145 / 22%);
+  transform: rotate(26deg);
+}
+
+.home-hero {
+  grid-area: hero;
+  max-width: 34rem;
+}
+
+.home-kicker,
+.section-kicker {
+  margin: 0 0 var(--space-2);
+  color: var(--accent-orange-strong);
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+}
+
+.home-title {
+  margin: 0;
+  color: var(--text-primary);
+  font-size: clamp(3.2rem, 7.8vw, 6.8rem);
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  line-height: 0.96;
+  word-break: keep-all;
+}
+
+.home-title span {
+  display: block;
+  width: fit-content;
+  margin-top: var(--space-3);
+  padding: 0 var(--space-2) var(--space-2);
+  color: var(--accent-orange-strong);
+  background: linear-gradient(transparent 66%, #ffd66b 66%);
+}
+
+.home-lead {
+  margin: var(--space-6) 0 0;
+  color: var(--text-secondary);
+  font-size: clamp(1.15rem, 2.2vw, 1.45rem);
+  line-height: 1.55;
+  word-break: keep-all;
+}
+
+.activity-grid {
+  grid-area: activities;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
+  gap: var(--space-6);
+  width: 100%;
+  max-width: 46rem;
+  justify-self: end;
+}
+
+.activity-card {
+  --card-accent: var(--accent-orange);
+  --card-surface: #fff0cf;
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  min-height: 25rem;
+  flex-direction: column;
+  padding: clamp(1.5rem, 3vw, 2.25rem);
+  overflow: hidden;
+  border: 0.12rem solid rgb(255 255 255 / 75%);
+  border-radius: var(--radius-xl);
+  background:
+    radial-gradient(circle at 90% 4%, rgb(255 255 255 / 80%), transparent 28%),
+    var(--card-surface);
+  box-shadow: var(--shadow-card);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+.activity-card::after {
+  content: "";
+  position: absolute;
+  right: -3.5rem;
+  bottom: -3.5rem;
+  width: 10rem;
+  aspect-ratio: 1;
+  border: 1.4rem solid rgb(255 255 255 / 38%);
+  border-radius: 50%;
+}
+
+.activity-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.activity-card--blue {
+  --card-accent: var(--accent-blue);
+  --card-surface: #dcecff;
+  margin-top: var(--space-10);
+}
+
+.activity-card:hover {
+  transform: translateY(-0.35rem);
+  box-shadow: 0 1.6rem 4rem rgb(72 84 112 / 19%);
+}
+
+.activity-card:active {
+  transform: translateY(0.1rem) scale(0.985);
+}
+
+.activity-card__icon {
+  display: grid;
+  width: 4.5rem;
+  aspect-ratio: 1;
+  place-items: center;
+  border-radius: 1.35rem;
+  background: rgb(255 255 255 / 75%);
+  color: var(--card-accent);
+  box-shadow: inset 0 0 0 0.1rem rgb(255 255 255 / 55%);
+}
+
+.activity-card__icon svg {
+  width: 2.3rem;
+}
+
+.activity-card__eyebrow {
+  margin-top: var(--space-8);
+  color: var(--card-accent);
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+}
+
+.activity-card__title {
+  margin-top: var(--space-1);
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.activity-card__description {
+  margin-top: var(--space-3);
+  color: var(--text-secondary);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  word-break: keep-all;
+}
+
+.activity-card__action {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-top: auto;
+  color: var(--card-accent);
+}
+
+.activity-card__action svg {
+  width: 1.25rem;
+  transition: transform 220ms ease;
+}
+
+.activity-card:hover .activity-card__action svg {
+  transform: translateX(0.25rem);
+}
+
+.sound-note {
+  grid-area: note;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  align-self: start;
+  width: fit-content;
+  margin: 0;
+  padding: var(--space-3) var(--space-4);
+  border-radius: 999px;
+  background: rgb(255 255 255 / 68%);
+  color: var(--text-secondary);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 0.95rem;
+  word-break: keep-all;
+  box-shadow: var(--shadow-soft);
+}
+
+.sound-note svg {
+  width: 1.15rem;
+  color: var(--accent-blue);
+}

@@ -1,0 +1,147 @@
+@media (max-width: 64rem) {
+  .home-shell {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "hero"
+      "activities"
+      "note";
+    justify-items: center;
+    padding: clamp(2rem, 8vw, 5rem) clamp(1rem, 6vw, 3rem);
+  }
+
+  .home-hero {
+    max-width: 44rem;
+    text-align: center;
+  }
+
+  .home-title span,
+  .sound-note {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .activity-grid {
+    max-width: 42rem;
+    justify-self: center;
+  }
+}
+
+@media (max-width: 40rem) {
+  .home-shell {
+    align-content: start;
+    gap: var(--space-8);
+    min-height: 100dvh;
+    padding-top: clamp(3rem, 12vh, 6rem);
+  }
+
+  .home-title {
+    font-size: clamp(3rem, 17vw, 4.4rem);
+  }
+
+  .home-lead br {
+    display: none;
+  }
+
+  .activity-grid {
+    grid-template-columns: 1fr;
+    width: min(100%, 28rem);
+  }
+
+  .activity-card,
+  .activity-card--blue {
+    min-height: 18.5rem;
+    margin-top: 0;
+  }
+
+  .activity-card__eyebrow {
+    margin-top: var(--space-5);
+  }
+
+  .sound-note {
+    max-width: 28rem;
+    border-radius: var(--radius-md);
+    text-align: left;
+  }
+
+  .round-sound-button span {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+  }
+
+  .round-sound-button {
+    width: 3.25rem;
+    padding: 0;
+  }
+
+  .trace-stage__heading {
+    align-items: flex-end;
+  }
+
+  .trace-progress {
+    grid-template-columns: minmax(0, 1fr) 3rem;
+  }
+
+  .trace-progress > span {
+    display: none;
+  }
+
+  .action-bar,
+  .result-card__actions {
+    grid-template-columns: 1fr;
+  }
+
+  .letter-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .letter-button {
+    min-width: 0;
+  }
+
+  .listen-card {
+    gap: var(--space-3);
+    padding: var(--space-4);
+  }
+
+  .listen-card__icon {
+    width: 3.4rem;
+  }
+
+  .quiz-options {
+    gap: var(--space-3);
+  }
+
+  .quiz-option {
+    min-height: 7rem;
+    border-radius: var(--radius-md);
+  }
+}
+
+@media (max-width: 23rem) {
+  .top-bar {
+    grid-template-columns: 3rem minmax(0, 1fr) 3rem;
+    gap: var(--space-2);
+  }
+
+  .top-bar__badge {
+    display: none;
+  }
+
+  .letter-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

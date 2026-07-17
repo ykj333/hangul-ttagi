@@ -1,0 +1,114 @@
+.result-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  animation: completion-pop 420ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.result-card__icon {
+  display: grid;
+  width: 5rem;
+  aspect-ratio: 1;
+  place-items: center;
+  margin-bottom: var(--space-5);
+  border-radius: 1.7rem;
+  background: #fff3c8;
+  color: #dc951c;
+}
+
+.result-card__icon svg {
+  width: 2.7rem;
+  fill: #ffd76a;
+}
+
+.result-card h2 {
+  max-width: 28rem;
+  margin: 0;
+  font-size: clamp(1.9rem, 5vw, 2.7rem);
+  font-weight: 400;
+  line-height: 1.25;
+  word-break: keep-all;
+}
+
+.result-card__score {
+  margin: var(--space-5) 0 0;
+  color: var(--text-secondary);
+}
+
+.result-card__score strong {
+  color: var(--accent-blue);
+  font-size: 3.6rem;
+  font-weight: 400;
+}
+
+.result-card__message {
+  max-width: 28rem;
+  margin: var(--space-3) 0 0;
+  color: var(--text-secondary);
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  word-break: keep-all;
+}
+
+.result-card__actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-3);
+  width: min(100%, 26rem);
+  margin-top: var(--space-8);
+}
+
+.confetti-canvas {
+  position: fixed;
+  z-index: 50;
+  inset: 0;
+  pointer-events: none;
+}
+
+@keyframes completion-pop {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -44%) scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+.result-card {
+  animation-name: result-pop;
+}
+
+@keyframes result-pop {
+  from {
+    opacity: 0;
+    transform: translateY(1rem) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes answer-pop {
+  50% {
+    transform: scale(1.04);
+  }
+}
+
+@keyframes answer-shake {
+  25% {
+    transform: translateX(-0.35rem);
+  }
+  75% {
+    transform: translateX(0.35rem);
+  }
+}
+
+@keyframes loading-pulse {
+  to {
+    opacity: 0.35;
+    transform: scale(0.75);
+  }
+}
