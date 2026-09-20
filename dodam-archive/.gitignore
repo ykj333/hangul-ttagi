@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
+*.log
+*.tsbuildinfo
+artifacts/
+
+.vercel
+.env*
+.agents/
+.claude/
+skills-lock.json
