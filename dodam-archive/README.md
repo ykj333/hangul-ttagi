@@ -29,13 +29,13 @@ http://localhost:3100
 
 ## 서버 환경 변수
 
-| 이름 | 용도 |
-|---|---|
-| `AUTH_SECRET` | 32자 이상 세션 서명 비밀 값 |
-| `DATABASE_URL` | 기록·프로필·생성 한도용 PostgreSQL |
-| `IDENTITY_NEON_AUTH_BASE_URL` | 관리형 Google OAuth 서비스 URL |
-| `OPENAI_API_KEY` | 서버 전용 OpenAI 키 |
-| `OPENAI_IMAGE_MODEL` | 기본값 `gpt-image-2.5-sunburst` |
+| 이름                          | 용도                               |
+| ----------------------------- | ---------------------------------- |
+| `AUTH_SECRET`                 | 32자 이상 세션 서명 비밀 값        |
+| `DATABASE_URL`                | 기록·프로필·생성 한도용 PostgreSQL |
+| `IDENTITY_NEON_AUTH_BASE_URL` | 관리형 Google OAuth 서비스 URL     |
+| `OPENAI_API_KEY`              | 서버 전용 OpenAI 키                |
+| `OPENAI_IMAGE_MODEL`          | 기본값 `gpt-image-2.5-sunburst`    |
 
 키는 NEXT_PUBLIC 변수로 노출하지 않습니다. `.env*`, `.vercel`, 로그는 Git에서 제외합니다.
 샘플 로그인은 누구나 체험할 수 있으므로 실제 아동 개인정보를 입력하지 않습니다.
