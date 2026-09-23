@@ -52,7 +52,7 @@ export async function POST(request: Request) {
     const plan = JSON.parse(output);
     const pairs = [plan.dialogues?.example1, plan.dialogues?.example2, plan.dialogues?.example3];
     if (pairs.some((pair) => typeof pair?.teacher !== "string" || typeof pair?.child !== "string")) throw new Error("Missing dialogue pairs");
-    plan.sections.dialogue = pairs.map((pair) => `교사: “${pair.teacher}”  유아: “${pair.child}”`).join(String.fromCharCode(10, 10));
+    plan.sections.dialogue = pairs.map((pair) => `교사: ${pair.teacher}  유아: ${pair.child}`).join(String.fromCharCode(10, 10));
     if (!isPlan(plan)) throw new Error("Unexpected output shape");
     return Response.json(plan, { headers: { "Cache-Control": "no-store" } });
   } catch {
