@@ -174,7 +174,7 @@ export default function Home() {
           <label className="field-label" htmlFor="objective">수업 목표 <span className="field-tag">선택</span></label><input id="objective" className="text-input" maxLength={300} value={draft.objective} onChange={(event) => update("objective", event.target.value)} placeholder="이 그림으로 어떤 이야기를 나눌까요?" disabled={loading} />
           <label className="field-label" htmlFor="details">꼭 넣고 싶은 것 <span className="field-tag">선택</span></label><textarea id="details" className="text-input" rows={4} maxLength={600} value={draft.details} onChange={(event) => update("details", event.target.value)} placeholder="예: 민들레, 개나리, 벚꽃을 함께 보여주세요" disabled={loading} />
           <button className="generate-button" type="submit" disabled={loading || remaining === 0}><span aria-hidden="true">✦</span>{loading ? "선생님의 그림을 그리고 있어요…" : remaining === 0 ? "오늘 체험을 모두 사용했어요" : `${selected.title} 만들기`}<span aria-hidden="true">↗</span></button>
-          <p className="secure-note"><span />이미지는 서버에서 안전하게 생성돼요. API 키는 브라우저에 보이지 않아요.</p><p className="quota-note">공개 체험 · 전체 사용자 하루 2회 (한국 시간), 실패한 시도도 포함{remaining !== null && <strong>오늘 남은 횟수 {remaining}회</strong>}</p>
+          <p className="secure-note"><span />이미지는 서버에서 안전하게 생성돼요. API 키는 브라우저에 보이지 않아요.</p><p className="quota-note">공개 체험 · 전체 사용자 하루 30회 (한국 시간), 실패한 시도도 포함{remaining !== null && <strong>오늘 남은 횟수 {remaining}회</strong>}</p>
           {error && <p className="error-message" role="alert">{error}</p>}
         </form>
       </section>

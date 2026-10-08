@@ -1,4 +1,4 @@
-export const DAILY_LIMIT = 2;
+export const DAILY_LIMIT = 30;
 export function koreanDay(date = new Date()): string {
   return new Intl.DateTimeFormat('en-CA', {timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(date);
 }
