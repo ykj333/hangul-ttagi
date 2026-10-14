@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-page: #F6F8F7;
+  --brand-green: #1B5E4B;
+  --brand-mint: #D8EFE4;
+  --brand-soft: #E8F3EE;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: #182420;
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Custom subtle scrollbars for right playlist */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #D5DDD9;
+  border-radius: 9999px;
+}
