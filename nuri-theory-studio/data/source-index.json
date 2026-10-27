@@ -1,0 +1,4458 @@
+[
+  {
+    "id": "physical-1",
+    "domain": "physical",
+    "filename": "유아 AI 교재 교구 종류 및 제작, 활용- 신체운동, 건강 영역.md",
+    "title": "유아 AI 교재 교구의 이해와 활용: 신체운동·건강 영역을 중심으로",
+    "relativePath": "AI Theory/신체운동, 건강 영역/유아 AI 교재 교구 종류 및 제작, 활용- 신체운동, 건강 영역.md",
+    "bytes": 65825,
+    "sha256": "075c7f5b304cab472d236f0a96c3742678eaf2e832e54df4559325f063b6e452",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 AI 교재 교구의 이해와 활용: 신체운동·건강 영역을 중심으로"
+      },
+      {
+        "id": "section-1",
+        "level": 1,
+        "title": "Understanding and Utilizing AI Educational Materials and Tools in Early Childhood Education: Focusing on Physical Activity and Health Domains"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차 (Table of Contents)"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약 (Executive Summary)"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.1 연구의 배경 및 필요성"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.2 연구의 목적 및 범위"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "1.3 가이드의 구성"
+      },
+      {
+        "id": "section-8",
+        "level": 2,
+        "title": "2. 이론적 배경 (Theoretical Background and Foundations)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.1 유아 신체운동·건강 영역의 교육적 의의"
+      },
+      {
+        "id": "section-10",
+        "level": 3,
+        "title": "2.2 인공지능 기술과 유아교육의 융합"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "2.3 발달 이론과 AI 교재 교구의 연계"
+      },
+      {
+        "id": "section-12",
+        "level": 2,
+        "title": "3. AI 교재 교구의 유형과 특성 (Types and Characteristics of AI Educational Materials)"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.1 가상현실(VR) 기반 교재 교구"
+      },
+      {
+        "id": "section-14",
+        "level": 3,
+        "title": "3.2 증강현실(AR) 기반 교재 교구"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "3.3 컴퓨터 비전 및 동작 인식 시스템"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "3.4 딥러닝 기반 평가 및 피드백 시스템"
+      },
+      {
+        "id": "section-17",
+        "level": 3,
+        "title": "3.5 대화형 AI 및 스마트 교육 플랫폼"
+      },
+      {
+        "id": "section-18",
+        "level": 3,
+        "title": "3.6 AI 교재 교구 유형별 비교"
+      },
+      {
+        "id": "section-19",
+        "level": 2,
+        "title": "4. AI 교재 교구의 제작 방법론 (Methodology for Creating AI Educational Materials)"
+      },
+      {
+        "id": "section-20",
+        "level": 3,
+        "title": "4.1 설계 원리와 교육과정 연계"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "4.2 기술적 구현 방법"
+      },
+      {
+        "id": "section-22",
+        "level": 3,
+        "title": "4.3 유아 발달 단계별 맞춤형 설계"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "4.4 안전성과 윤리적 고려사항"
+      },
+      {
+        "id": "section-24",
+        "level": 2,
+        "title": "5. AI 교재 교구의 활용 방법 (Utilization Methods for AI Educational Materials)"
+      },
+      {
+        "id": "section-25",
+        "level": 3,
+        "title": "5.1 교실 환경 구성 및 준비"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "5.2 교사의 역할과 교수 전략"
+      },
+      {
+        "id": "section-27",
+        "level": 3,
+        "title": "5.3 활동 유형별 활용 방안"
+      },
+      {
+        "id": "section-28",
+        "level": 3,
+        "title": "5.4 평가 및 피드백 활용"
+      },
+      {
+        "id": "section-29",
+        "level": 2,
+        "title": "6. 현장 적용 사례 분석 (Field Implementation Case Studies)"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "6.1 VR 기반 무용 교육 사례"
+      },
+      {
+        "id": "section-31",
+        "level": 3,
+        "title": "6.2 AI 동작 분석 시스템 활용 사례"
+      },
+      {
+        "id": "section-32",
+        "level": 3,
+        "title": "6.3 스마트 건강 교육 프로그램 사례"
+      },
+      {
+        "id": "section-33",
+        "level": 3,
+        "title": "6.4 통합적 신체활동 프로그램 사례"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "6.5 사례 종합 및 공통 시사점"
+      },
+      {
+        "id": "section-35",
+        "level": 2,
+        "title": "7. 논의 및 제언 (Discussion and Recommendations)"
+      },
+      {
+        "id": "section-36",
+        "level": 3,
+        "title": "7.1 AI 교재 교구의 효과성과 한계"
+      },
+      {
+        "id": "section-37",
+        "level": 3,
+        "title": "7.2 교사 전문성 개발의 필요성"
+      },
+      {
+        "id": "section-38",
+        "level": 3,
+        "title": "7.3 향후 연구 방향"
+      },
+      {
+        "id": "section-39",
+        "level": 2,
+        "title": "8. 결론 (Conclusion)"
+      },
+      {
+        "id": "section-40",
+        "level": 2,
+        "title": "참고문헌 (References)"
+      }
+    ]
+  },
+  {
+    "id": "physical-2",
+    "domain": "physical",
+    "filename": "유아 교재 교구 종류 및 제작, 활용- 신체운동, 건강 영역.md",
+    "title": "유아 교재 교구 종류 및 제작, 활용: 신체운동·건강 영역",
+    "relativePath": "AI Theory/신체운동, 건강 영역/유아 교재 교구 종류 및 제작, 활용- 신체운동, 건강 영역.md",
+    "bytes": 96994,
+    "sha256": "5e93991e913a023ab1850dc7c05bd224ebd7d80526c7e909d3ee0aa6ff07ef17",
+    "kind": "general",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 교재 교구 종류 및 제작, 활용: 신체운동·건강 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "3-5세 유아 교사를 위한 종합 가이드"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "2. 이론적 기초"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "2.1 발달적으로 적합한 실제(DAP)"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "2.2 구성주의 이론과 신체 발달"
+      },
+      {
+        "id": "section-8",
+        "level": 3,
+        "title": "2.3 사회문화적 학습 이론"
+      },
+      {
+        "id": "section-9",
+        "level": 2,
+        "title": "3. 신체운동·건강 교재 교구의 유형"
+      },
+      {
+        "id": "section-10",
+        "level": 3,
+        "title": "3.1 대근육 발달 교재 교구"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "3.2 소근육 발달 교재 교구"
+      },
+      {
+        "id": "section-12",
+        "level": 3,
+        "title": "3.3 감각 통합 교재 교구"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.4 디지털 기반 교재 교구"
+      },
+      {
+        "id": "section-14",
+        "level": 2,
+        "title": "4. 교재 교구 제작 방법"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "4.1 재활용 재료를 활용한 제작"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "4.2 저비용 교재 교구 제작"
+      },
+      {
+        "id": "section-17",
+        "level": 3,
+        "title": "4.3 안전 고려사항"
+      },
+      {
+        "id": "section-18",
+        "level": 2,
+        "title": "5. 교재 교구 활용 방법"
+      },
+      {
+        "id": "section-19",
+        "level": 3,
+        "title": "5.1 일과 통합 전략"
+      },
+      {
+        "id": "section-20",
+        "level": 3,
+        "title": "5.2 교사의 역할과 상호작용"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "5.3 개별화 및 차별화 전략"
+      },
+      {
+        "id": "section-22",
+        "level": 2,
+        "title": "6. 유치원 현장 적용 사례"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "6.1 활동 스테이션 기반 프로그램"
+      },
+      {
+        "id": "section-24",
+        "level": 3,
+        "title": "6.2 순환 운동 프로그램"
+      },
+      {
+        "id": "section-25",
+        "level": 3,
+        "title": "6.3 놀이 기반 통합 접근"
+      },
+      {
+        "id": "section-26",
+        "level": 2,
+        "title": "7. 교재 교구 효과성 평가"
+      },
+      {
+        "id": "section-27",
+        "level": 2,
+        "title": "8. 결론 및 제언"
+      },
+      {
+        "id": "section-28",
+        "level": 2,
+        "title": "참고문헌"
+      }
+    ]
+  },
+  {
+    "id": "social-1",
+    "domain": "social",
+    "filename": "유아 교재 교구 종류 및 제작, 활용 사회관계(사회성) 영역.md",
+    "title": "유아 교재 교구 종류 및 제작, 활용: 사회관계(사회성) 영역",
+    "relativePath": "AI Theory/사회관계 영역/유아 교재 교구 종류 및 제작, 활용 사회관계(사회성) 영역.md",
+    "bytes": 91149,
+    "sha256": "8d253d190ad7d3ef1b3cb2955c52e46668c262d67cec6dde3d1af61eeb7eae60",
+    "kind": "general",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 교재 교구 종류 및 제작, 활용: 사회관계(사회성) 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "A Comprehensive Guide to Early Childhood Education Materials and Tools for the Social Relationship Domain"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "Executive Summary"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "Table of Contents"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "2. 사회관계 영역의 이론적 기초 (Theoretical Foundations of the Social Relationship Domain)"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "2.1 Vygotsky의 사회문화 이론 (Vygotsky's Sociocultural Theory)"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "2.2 사회정서학습(SEL) 이론 (Social-Emotional Learning Theory)"
+      },
+      {
+        "id": "section-8",
+        "level": 3,
+        "title": "2.3 구성주의와 사회적 구성주의 (Constructivism and Social Constructivism)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.4 애착 이론과 사회적 발달 (Attachment Theory and Social Development)"
+      },
+      {
+        "id": "section-10",
+        "level": 2,
+        "title": "3. 사회관계 영역 교재 교구의 유형 (Types of Teaching Materials and Tools for Social Relationship Domain)"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "3.1 감정 인식 및 표현 교구 (Emotion Recognition and Expression Tools)"
+      },
+      {
+        "id": "section-12",
+        "level": 4,
+        "title": "3.1.1 감정 차트 및 카드 (Emotion Charts and Cards)"
+      },
+      {
+        "id": "section-13",
+        "level": 4,
+        "title": "3.1.2 감정 표현 도구 (Emotion Expression Tools)"
+      },
+      {
+        "id": "section-14",
+        "level": 4,
+        "title": "3.1.3 음악 및 노래 기반 도구 (Music and Song-Based Tools)"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "3.2 사회적 상호작용 촉진 자료 (Materials Facilitating Social Interaction)"
+      },
+      {
+        "id": "section-16",
+        "level": 4,
+        "title": "3.2.1 역할놀이 소품 및 극놀이 자료 (Role-Play Props and Dramatic Play Materials)"
+      },
+      {
+        "id": "section-17",
+        "level": 4,
+        "title": "3.2.2 인형 및 마스코트 (Puppets and Mascots)"
+      },
+      {
+        "id": "section-18",
+        "level": 3,
+        "title": "3.3 문제해결 및 갈등 해결 도구 (Problem-Solving and Conflict Resolution Tools)"
+      },
+      {
+        "id": "section-19",
+        "level": 4,
+        "title": "3.3.1 문제해결 시나리오 카드 및 이야기 (Problem-Solving Scenario Cards and Stories)"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "3.3.2 자기조절 도구 (Self-Regulation Tools)"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "3.4 협동 및 공감 발달 자료 (Cooperation and Empathy Development Materials)"
+      },
+      {
+        "id": "section-22",
+        "level": 4,
+        "title": "3.4.1 협동 게임 및 활동 (Cooperative Games and Activities)"
+      },
+      {
+        "id": "section-23",
+        "level": 4,
+        "title": "3.4.2 공감 및 관점 수용 자료 (Empathy and Perspective-Taking Materials)"
+      },
+      {
+        "id": "section-24",
+        "level": 3,
+        "title": "3.5 디지털 및 테크놀로지 기반 도구 (Digital and Technology-Based Tools)"
+      },
+      {
+        "id": "section-25",
+        "level": 4,
+        "title": "3.5.1 유형적 사용자 인터페이스 (Tangible User Interfaces)"
+      },
+      {
+        "id": "section-26",
+        "level": 4,
+        "title": "3.5.2 디지털 도구 사용 시 고려사항"
+      },
+      {
+        "id": "section-27",
+        "level": 2,
+        "title": "4. 교재 교구 제작 방법 (Creation Methods for Teaching Materials and Tools)"
+      },
+      {
+        "id": "section-28",
+        "level": 3,
+        "title": "4.1 감정 차트 및 카드 제작 (Creating Emotion Charts and Cards)"
+      },
+      {
+        "id": "section-29",
+        "level": 4,
+        "title": "4.1.1 기본 감정 차트 제작"
+      },
+      {
+        "id": "section-30",
+        "level": 4,
+        "title": "4.1.2 감정 카드 제작"
+      },
+      {
+        "id": "section-31",
+        "level": 3,
+        "title": "4.2 역할놀이 소품 제작 (Creating Role-Play Props)"
+      },
+      {
+        "id": "section-32",
+        "level": 4,
+        "title": "4.2.1 저비용 소품 제작 전략"
+      },
+      {
+        "id": "section-33",
+        "level": 4,
+        "title": "4.2.2 주제별 소품 세트 제작"
+      },
+      {
+        "id": "section-34",
+        "level": 4,
+        "title": "4.2.3 소품 제작 시 유아 참여"
+      },
+      {
+        "id": "section-35",
+        "level": 3,
+        "title": "4.3 협동 게임 및 활동 자료 제작 (Creating Cooperative Game and Activity Materials)"
+      },
+      {
+        "id": "section-36",
+        "level": 4,
+        "title": "4.3.1 협동 퍼즐 제작"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "4.3.2 협동 미술 프로젝트 자료"
+      },
+      {
+        "id": "section-38",
+        "level": 3,
+        "title": "4.4 시각적 지원 도구 제작 (Creating Visual Support Tools)"
+      },
+      {
+        "id": "section-39",
+        "level": 4,
+        "title": "4.4.1 일과 시각화 도구"
+      },
+      {
+        "id": "section-40",
+        "level": 4,
+        "title": "4.4.2 전환 도구"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "4.4.3 긍정적 행동 강화 차트"
+      },
+      {
+        "id": "section-42",
+        "level": 2,
+        "title": "5. 교재 교구 활용 방법 (Utilization Methods for Teaching Materials and Tools)"
+      },
+      {
+        "id": "section-43",
+        "level": 3,
+        "title": "5.1 일과 통합 전략 (Daily Routine Integration Strategies)"
+      },
+      {
+        "id": "section-44",
+        "level": 4,
+        "title": "5.1.1 등원 시간 (Arrival Time)"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "5.1.2 자유놀이 시간 (Free Play Time)"
+      },
+      {
+        "id": "section-46",
+        "level": 4,
+        "title": "5.1.3 집단 활동 시간 (Circle Time)"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "5.1.4 전환 시간 (Transition Times)"
+      },
+      {
+        "id": "section-48",
+        "level": 4,
+        "title": "5.1.5 갈등 및 문제 상황 (Conflict and Problem Situations)"
+      },
+      {
+        "id": "section-49",
+        "level": 3,
+        "title": "5.2 교사의 역할과 비계 설정 (Teacher's Role and Scaffolding)"
+      },
+      {
+        "id": "section-50",
+        "level": 4,
+        "title": "5.2.1 관찰자 및 촉진자 (Observer and Facilitator)"
+      },
+      {
+        "id": "section-51",
+        "level": 4,
+        "title": "5.2.2 모델링 (Modeling)"
+      },
+      {
+        "id": "section-52",
+        "level": 4,
+        "title": "5.2.3 비계 설정 (Scaffolding)"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "5.2.4 성찰 촉진 (Facilitating Reflection)"
+      },
+      {
+        "id": "section-54",
+        "level": 3,
+        "title": "5.3 개별 및 집단 활동 구성 (Structuring Individual and Group Activities)"
+      },
+      {
+        "id": "section-55",
+        "level": 4,
+        "title": "5.3.1 개별 활동 (Individual Activities)"
+      },
+      {
+        "id": "section-56",
+        "level": 4,
+        "title": "5.3.2 소집단 활동 (Small Group Activities)"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "5.3.3 대집단 활동 (Large Group Activities)"
+      },
+      {
+        "id": "section-58",
+        "level": 3,
+        "title": "5.4 가정 연계 전략 (Home-School Connection Strategies)"
+      },
+      {
+        "id": "section-59",
+        "level": 4,
+        "title": "5.4.1 부모 교육 및 의사소통"
+      },
+      {
+        "id": "section-60",
+        "level": 4,
+        "title": "5.4.2 가정 활동 제안"
+      },
+      {
+        "id": "section-61",
+        "level": 4,
+        "title": "5.4.3 부모 참여 활동"
+      },
+      {
+        "id": "section-62",
+        "level": 2,
+        "title": "6. 현장 적용 사례 (Field Application Case Studies)"
+      },
+      {
+        "id": "section-63",
+        "level": 3,
+        "title": "6.1 국제 프로그램 사례 (International Program Cases)"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "6.1.1 Head Start CARES Demonstration (미국)"
+      },
+      {
+        "id": "section-65",
+        "level": 4,
+        "title": "6.1.2 OpenMind-Korea (OM-K) Preschool Program (한국)"
+      },
+      {
+        "id": "section-66",
+        "level": 4,
+        "title": "6.1.3 COPE-Resilience Program (호주)"
+      },
+      {
+        "id": "section-67",
+        "level": 3,
+        "title": "6.2 한국 맥락에서의 적용 가능성 (Applicability in Korean Context)"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "6.2.1 누리과정과의 연계"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "6.2.2 한국 유치원 현장의 특성 고려"
+      },
+      {
+        "id": "section-70",
+        "level": 4,
+        "title": "6.2.3 OM-K 프로그램의 성공 요인"
+      },
+      {
+        "id": "section-71",
+        "level": 3,
+        "title": "6.3 성공적인 실행을 위한 요소 (Elements for Successful Implementation)"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "6.3.1 전문성 개발 (Professional Development)"
+      },
+      {
+        "id": "section-73",
+        "level": 4,
+        "title": "6.3.2 충실도와 적응의 균형 (Balance Between Fidelity and Adaptation)"
+      },
+      {
+        "id": "section-74",
+        "level": 4,
+        "title": "6.3.3 체계적이고 지속적인 실행 (Systematic and Sustained Implementation)"
+      },
+      {
+        "id": "section-75",
+        "level": 4,
+        "title": "6.3.4 가정-학교 연계 (Home-School Connection)"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "6.3.5 평가 및 모니터링 (Assessment and Monitoring)"
+      },
+      {
+        "id": "section-77",
+        "level": 2,
+        "title": "7. 결론 및 제언 (Conclusion and Recommendations)"
+      },
+      {
+        "id": "section-78",
+        "level": 3,
+        "title": "7.1 주요 결론 (Key Conclusions)"
+      },
+      {
+        "id": "section-79",
+        "level": 3,
+        "title": "7.2 실천적 제언 (Practical Recommendations)"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "7.2.1 유치원 교사를 위한 제언 (Recommendations for Kindergarten Teachers)"
+      },
+      {
+        "id": "section-81",
+        "level": 4,
+        "title": "7.2.2 유치원 기관을 위한 제언 (Recommendations for Kindergarten Institutions)"
+      },
+      {
+        "id": "section-82",
+        "level": 4,
+        "title": "7.2.3 정책 입안자를 위한 제언 (Recommendations for Policy Makers)"
+      },
+      {
+        "id": "section-83",
+        "level": 3,
+        "title": "7.3 향후 연구 방향 (Future Research Directions)"
+      },
+      {
+        "id": "section-84",
+        "level": 3,
+        "title": "7.4 맺음말 (Closing Remarks)"
+      },
+      {
+        "id": "section-85",
+        "level": 2,
+        "title": "References"
+      }
+    ]
+  },
+  {
+    "id": "social-2",
+    "domain": "social",
+    "filename": "유아_AI_교재교구_사회관계영역_종합가이드.md",
+    "title": "유아 AI 교재 교구 종류 및 제작, 활용: 사회관계(사회성) 영역",
+    "relativePath": "AI Theory/사회관계 영역/유아_AI_교재교구_사회관계영역_종합가이드.md",
+    "bytes": 77276,
+    "sha256": "d880df130d9a31f8cca83915f94714dcc03617ba957c5f8760b0070c1d68ab6e",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 AI 교재 교구 종류 및 제작, 활용: 사회관계(사회성) 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "목차"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "요약"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "1. 서론"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "2. 사회관계 영역 AI 교재 교구의 이론적 기초"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "2.1 유아 사회정서 발달의 중요성"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "2.2 AI 기술과 유아교육의 융합"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "2.3 이론적 토대"
+      },
+      {
+        "id": "section-8",
+        "level": 4,
+        "title": "2.3.1 비고츠키의 사회문화적 이론"
+      },
+      {
+        "id": "section-9",
+        "level": 4,
+        "title": "2.3.2 놀이 기반 학습"
+      },
+      {
+        "id": "section-10",
+        "level": 4,
+        "title": "2.3.3 사회학습 이론"
+      },
+      {
+        "id": "section-11",
+        "level": 4,
+        "title": "2.3.4 정서지능 프레임워크"
+      },
+      {
+        "id": "section-12",
+        "level": 2,
+        "title": "3. 사회관계 영역 AI 교재 교구의 종류"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.1 사회적 로봇"
+      },
+      {
+        "id": "section-14",
+        "level": 4,
+        "title": "3.1.1 NAO 로봇"
+      },
+      {
+        "id": "section-15",
+        "level": 4,
+        "title": "3.1.2 Cozmo 로봇"
+      },
+      {
+        "id": "section-16",
+        "level": 4,
+        "title": "3.1.3 TEGA 로봇"
+      },
+      {
+        "id": "section-17",
+        "level": 4,
+        "title": "3.1.4 교육용 로봇 R1"
+      },
+      {
+        "id": "section-18",
+        "level": 4,
+        "title": "3.1.5 TotCareBot"
+      },
+      {
+        "id": "section-19",
+        "level": 4,
+        "title": "3.1.6 인간-로봇 협력 교수 접근법"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "3.1.7 감정 인식 로봇"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "3.2 감정 인식 디지털 기술"
+      },
+      {
+        "id": "section-22",
+        "level": 4,
+        "title": "3.2.1 인터랙티브 디지털 얼굴 표정 인식 기술"
+      },
+      {
+        "id": "section-23",
+        "level": 4,
+        "title": "3.2.2 인공신경망 기반 심리 및 정서 인식"
+      },
+      {
+        "id": "section-24",
+        "level": 4,
+        "title": "3.2.3 AI 기반 감정 인식 및 맞춤형 학습"
+      },
+      {
+        "id": "section-25",
+        "level": 3,
+        "title": "3.3 인터랙티브 스토리텔링 시스템"
+      },
+      {
+        "id": "section-26",
+        "level": 4,
+        "title": "3.3.1 스토리텔링 테이블과 로봇 안내"
+      },
+      {
+        "id": "section-27",
+        "level": 4,
+        "title": "3.3.2 Inclusive'R'Stories"
+      },
+      {
+        "id": "section-28",
+        "level": 4,
+        "title": "3.3.3 Tingets 2.0"
+      },
+      {
+        "id": "section-29",
+        "level": 4,
+        "title": "3.3.4 PUPPET, StoryFaces, emoPuppet, FingerAR, Playbrick"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "3.4 음성 기반 챗봇 및 대화형 에이전트"
+      },
+      {
+        "id": "section-31",
+        "level": 4,
+        "title": "3.4.1 음성 기반 감정 인식 소셜 챗봇"
+      },
+      {
+        "id": "section-32",
+        "level": 4,
+        "title": "3.4.2 감정에 관한 대화를 유지하는 챗봇 앱"
+      },
+      {
+        "id": "section-33",
+        "level": 4,
+        "title": "3.4.3 ChatGPT를 탑재한 인간형 로봇"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "3.5 게임 기반 멀티 에이전트 AI 시스템"
+      },
+      {
+        "id": "section-35",
+        "level": 4,
+        "title": "3.5.1 인터랙티브 게임 기반 멀티 에이전트 AI 시스템"
+      },
+      {
+        "id": "section-36",
+        "level": 3,
+        "title": "3.6 증강현실(AR) 및 가상현실(VR) 기반 도구"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "3.6.1 TogetherTales RPG"
+      },
+      {
+        "id": "section-38",
+        "level": 4,
+        "title": "3.6.2 VR/AR 기반 인터랙티브 환경"
+      },
+      {
+        "id": "section-39",
+        "level": 2,
+        "title": "4. AI 교재 교구 제작 방법"
+      },
+      {
+        "id": "section-40",
+        "level": 3,
+        "title": "4.1 설계 원칙"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "4.1.1 발달 적합성"
+      },
+      {
+        "id": "section-42",
+        "level": 4,
+        "title": "4.1.2 놀이 중심성"
+      },
+      {
+        "id": "section-43",
+        "level": 4,
+        "title": "4.1.3 상호작용성"
+      },
+      {
+        "id": "section-44",
+        "level": 4,
+        "title": "4.1.4 개별화"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "4.1.5 안전성 및 내구성"
+      },
+      {
+        "id": "section-46",
+        "level": 3,
+        "title": "4.2 기술적 개발 접근법"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "4.2.1 로봇 플랫폼 개발"
+      },
+      {
+        "id": "section-48",
+        "level": 4,
+        "title": "4.2.2 감정 인식 시스템 구축"
+      },
+      {
+        "id": "section-49",
+        "level": 4,
+        "title": "4.2.3 인터랙티브 스토리텔링 시스템 개발"
+      },
+      {
+        "id": "section-50",
+        "level": 4,
+        "title": "4.2.4 게임 기반 AI 시스템 개발"
+      },
+      {
+        "id": "section-51",
+        "level": 4,
+        "title": "4.2.5 AR/VR 환경 구축"
+      },
+      {
+        "id": "section-52",
+        "level": 3,
+        "title": "4.3 교육적 콘텐츠 통합"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "4.3.1 감정 관련 콘텐츠 개발"
+      },
+      {
+        "id": "section-54",
+        "level": 4,
+        "title": "4.3.2 사회적 기술 교육 콘텐츠"
+      },
+      {
+        "id": "section-55",
+        "level": 4,
+        "title": "4.3.3 안내 스크립트 개발"
+      },
+      {
+        "id": "section-56",
+        "level": 3,
+        "title": "4.4 교사 역량 강화"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "4.4.1 교사 교육 프로그램"
+      },
+      {
+        "id": "section-58",
+        "level": 4,
+        "title": "4.4.2 교사의 적응력 지원"
+      },
+      {
+        "id": "section-59",
+        "level": 4,
+        "title": "4.4.3 교사 관점의 평가"
+      },
+      {
+        "id": "section-60",
+        "level": 2,
+        "title": "5. AI 교재 교구 활용 방법"
+      },
+      {
+        "id": "section-61",
+        "level": 3,
+        "title": "5.1 교실 환경 통합 전략"
+      },
+      {
+        "id": "section-62",
+        "level": 4,
+        "title": "5.1.1 물리적 환경 구성"
+      },
+      {
+        "id": "section-63",
+        "level": 4,
+        "title": "5.1.2 일과 통합"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "5.1.3 교사와 AI의 협력"
+      },
+      {
+        "id": "section-65",
+        "level": 3,
+        "title": "5.2 놀이 기반 활동 설계"
+      },
+      {
+        "id": "section-66",
+        "level": 4,
+        "title": "5.2.1 사회적 로봇과의 놀이 활동"
+      },
+      {
+        "id": "section-67",
+        "level": 4,
+        "title": "5.2.2 인터랙티브 스토리텔링 활동"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "5.2.3 게임 기반 사회정서 학습 활동"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "5.2.4 음성 기반 챗봇 활동"
+      },
+      {
+        "id": "section-70",
+        "level": 3,
+        "title": "5.3 개별화 및 그룹 학습 지원"
+      },
+      {
+        "id": "section-71",
+        "level": 4,
+        "title": "5.3.1 개별화 학습"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "5.3.2 그룹 학습"
+      },
+      {
+        "id": "section-73",
+        "level": 4,
+        "title": "5.3.3 특수한 요구를 가진 유아 지원"
+      },
+      {
+        "id": "section-74",
+        "level": 3,
+        "title": "5.4 평가 및 모니터링"
+      },
+      {
+        "id": "section-75",
+        "level": 4,
+        "title": "5.4.1 유아 발달 평가"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "5.4.2 활동 효과성 평가"
+      },
+      {
+        "id": "section-77",
+        "level": 4,
+        "title": "5.4.3 지속적 모니터링"
+      },
+      {
+        "id": "section-78",
+        "level": 2,
+        "title": "6. 유아교육 이론의 적용"
+      },
+      {
+        "id": "section-79",
+        "level": 3,
+        "title": "6.1 비고츠키의 사회문화적 이론"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "6.1.1 근접발달영역(ZPD)과 비계(Scaffolding)"
+      },
+      {
+        "id": "section-81",
+        "level": 4,
+        "title": "6.1.2 사회적 상호작용의 중요성"
+      },
+      {
+        "id": "section-82",
+        "level": 4,
+        "title": "6.1.3 놀이의 역할"
+      },
+      {
+        "id": "section-83",
+        "level": 3,
+        "title": "6.2 놀이 기반 학습"
+      },
+      {
+        "id": "section-84",
+        "level": 4,
+        "title": "6.2.1 자발적 참여와 흥미"
+      },
+      {
+        "id": "section-85",
+        "level": 4,
+        "title": "6.2.2 능동적 학습"
+      },
+      {
+        "id": "section-86",
+        "level": 4,
+        "title": "6.2.3 통합적 발달"
+      },
+      {
+        "id": "section-87",
+        "level": 3,
+        "title": "6.3 사회학습 이론"
+      },
+      {
+        "id": "section-88",
+        "level": 4,
+        "title": "6.3.1 모델링"
+      },
+      {
+        "id": "section-89",
+        "level": 4,
+        "title": "6.3.2 관찰 학습"
+      },
+      {
+        "id": "section-90",
+        "level": 4,
+        "title": "6.3.3 강화와 피드백"
+      },
+      {
+        "id": "section-91",
+        "level": 3,
+        "title": "6.4 정서지능 프레임워크"
+      },
+      {
+        "id": "section-92",
+        "level": 4,
+        "title": "6.4.1 감정 인식"
+      },
+      {
+        "id": "section-93",
+        "level": 4,
+        "title": "6.4.2 감정 이해"
+      },
+      {
+        "id": "section-94",
+        "level": 4,
+        "title": "6.4.3 감정 표현"
+      },
+      {
+        "id": "section-95",
+        "level": 4,
+        "title": "6.4.4 감정 조절"
+      },
+      {
+        "id": "section-96",
+        "level": 4,
+        "title": "6.4.5 사회적 기술"
+      },
+      {
+        "id": "section-97",
+        "level": 2,
+        "title": "7. 교재 교구의 현장 적용 사례"
+      },
+      {
+        "id": "section-98",
+        "level": 3,
+        "title": "7.1 사회적 로봇을 활용한 감정 인식 향상"
+      },
+      {
+        "id": "section-99",
+        "level": 4,
+        "title": "7.1.1 NAO 로봇을 활용한 유치원 활동"
+      },
+      {
+        "id": "section-100",
+        "level": 4,
+        "title": "7.1.2 ASD 유아를 위한 AI 기반 사회적 로봇"
+      },
+      {
+        "id": "section-101",
+        "level": 4,
+        "title": "7.1.3 인간-로봇 협력 교수 접근법"
+      },
+      {
+        "id": "section-102",
+        "level": 3,
+        "title": "7.2 인터랙티브 스토리텔링을 통한 정서 발달"
+      },
+      {
+        "id": "section-103",
+        "level": 4,
+        "title": "7.2.1 Tingets 2.0을 활용한 가정 및 교실 활동"
+      },
+      {
+        "id": "section-104",
+        "level": 4,
+        "title": "7.2.2 감정 로봇과 함께하는 포괄적 스토리텔링"
+      },
+      {
+        "id": "section-105",
+        "level": 3,
+        "title": "7.3 음성 기반 챗봇을 활용한 사회정서 학습"
+      },
+      {
+        "id": "section-106",
+        "level": 4,
+        "title": "7.3.1 유치원에서의 음성 기반 감정 인식 챗봇"
+      },
+      {
+        "id": "section-107",
+        "level": 3,
+        "title": "7.4 다문화 및 통합 교육 환경에서의 적용"
+      },
+      {
+        "id": "section-108",
+        "level": 4,
+        "title": "7.4.1 사우디아라비아 유아교육 현장"
+      },
+      {
+        "id": "section-109",
+        "level": 4,
+        "title": "7.4.2 에콰도르 유아교육 현장"
+      },
+      {
+        "id": "section-110",
+        "level": 3,
+        "title": "7.5 자폐스펙트럼장애 유아를 위한 AI 지원"
+      },
+      {
+        "id": "section-111",
+        "level": 4,
+        "title": "7.5.1 로봇 기반 조기 개입"
+      },
+      {
+        "id": "section-112",
+        "level": 4,
+        "title": "7.5.2 감정 인식 로봇"
+      },
+      {
+        "id": "section-113",
+        "level": 2,
+        "title": "8. 논의 및 제언"
+      },
+      {
+        "id": "section-114",
+        "level": 3,
+        "title": "8.1 AI 교재 교구의 효과성"
+      },
+      {
+        "id": "section-115",
+        "level": 3,
+        "title": "8.2 실행상의 과제"
+      },
+      {
+        "id": "section-116",
+        "level": 4,
+        "title": "8.2.1 교사 교육 및 적응력"
+      },
+      {
+        "id": "section-117",
+        "level": 4,
+        "title": "8.2.2 기술 자원 및 접근성"
+      },
+      {
+        "id": "section-118",
+        "level": 4,
+        "title": "8.2.3 기술적 안정성 및 유지보수"
+      },
+      {
+        "id": "section-119",
+        "level": 3,
+        "title": "8.3 윤리적 고려사항"
+      },
+      {
+        "id": "section-120",
+        "level": 4,
+        "title": "8.3.1 개인정보 보호 및 데이터 보안"
+      },
+      {
+        "id": "section-121",
+        "level": 4,
+        "title": "8.3.2 인간 상호작용의 중요성"
+      },
+      {
+        "id": "section-122",
+        "level": 4,
+        "title": "8.3.3 공평성 및 포괄성"
+      },
+      {
+        "id": "section-123",
+        "level": 3,
+        "title": "8.4 미래 방향"
+      },
+      {
+        "id": "section-124",
+        "level": 4,
+        "title": "8.4.1 맞춤형 및 적응형 AI 시스템"
+      },
+      {
+        "id": "section-125",
+        "level": 4,
+        "title": "8.4.2 다중 감각 및 몰입형 경험"
+      },
+      {
+        "id": "section-126",
+        "level": 4,
+        "title": "8.4.3 교사-AI 협력 모델의 발전"
+      },
+      {
+        "id": "section-127",
+        "level": 4,
+        "title": "8.4.4 종단 연구 및 장기 효과 평가"
+      },
+      {
+        "id": "section-128",
+        "level": 2,
+        "title": "9. 결론"
+      },
+      {
+        "id": "section-129",
+        "level": 2,
+        "title": "참고문헌"
+      }
+    ]
+  },
+  {
+    "id": "arts-1",
+    "domain": "arts",
+    "filename": "AI 유아 교재 교구 종류 및 제작, 활용 예술경험 영역-가이드.md",
+    "title": "AI 유아 교재 교구 종류 및 제작, 활용: 예술경험 영역",
+    "relativePath": "AI Theory/예술경험 영역/AI 유아 교재 교구 종류 및 제작, 활용 예술경험 영역-가이드.md",
+    "bytes": 91594,
+    "sha256": "41a9a22da5f4fb404dbbe8384df1e5652f88591529acb8347911073f9475e569",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "AI 유아 교재 교구 종류 및 제작, 활용: 예술경험 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "A Comprehensive Guide to AI Materials and Tools for Early Childhood Arts Education"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차 (Table of Contents)"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약 (Executive Summary)"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.1 연구의 배경 및 필요성"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.2 연구의 목적 및 범위"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "1.3 가이드의 구성"
+      },
+      {
+        "id": "section-8",
+        "level": 2,
+        "title": "2. 이론적 기초 (Theoretical Foundations)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.1 유아교육의 핵심 원리"
+      },
+      {
+        "id": "section-10",
+        "level": 4,
+        "title": "2.1.1 몬테소리 교육 원리"
+      },
+      {
+        "id": "section-11",
+        "level": 4,
+        "title": "2.1.2 레지오 에밀리아 접근법"
+      },
+      {
+        "id": "section-12",
+        "level": 4,
+        "title": "2.1.3 구성주의와 놀이 중심 학습"
+      },
+      {
+        "id": "section-13",
+        "level": 4,
+        "title": "2.1.4 다중양식 학습(Multimodal Learning)"
+      },
+      {
+        "id": "section-14",
+        "level": 4,
+        "title": "2.1.5 발달적으로 적합한 실천(Developmentally Appropriate Practice)"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "2.2 예술경험 영역의 교육적 가치"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "2.3 AI 기술과 유아교육의 통합"
+      },
+      {
+        "id": "section-17",
+        "level": 4,
+        "title": "2.3.1 지능 증강(Intelligence Augmentation) 개념"
+      },
+      {
+        "id": "section-18",
+        "level": 4,
+        "title": "2.3.2 인간-중심(Human-in-the-Loop) 접근법"
+      },
+      {
+        "id": "section-19",
+        "level": 4,
+        "title": "2.3.3 문화유산 접근의 민주화"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "2.3.4 다중양식 창의적 탐구"
+      },
+      {
+        "id": "section-21",
+        "level": 2,
+        "title": "3. 예술경험 영역의 AI 교재 교구 유형 (Types of AI Materials and Tools for Arts Experience Domain)"
+      },
+      {
+        "id": "section-22",
+        "level": 3,
+        "title": "3.1 시각예술 지원 AI 도구"
+      },
+      {
+        "id": "section-23",
+        "level": 4,
+        "title": "3.1.1 AI 기반 그림 생성 도구"
+      },
+      {
+        "id": "section-24",
+        "level": 4,
+        "title": "3.1.2 물리적-디지털 통합 시각예술 도구"
+      },
+      {
+        "id": "section-25",
+        "level": 4,
+        "title": "3.1.3 AI 기반 예술 감상 도구"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "3.2 음악 및 소리 탐색 AI 도구"
+      },
+      {
+        "id": "section-27",
+        "level": 4,
+        "title": "3.2.1 AI 음악 창작 도구"
+      },
+      {
+        "id": "section-28",
+        "level": 4,
+        "title": "3.2.2 시선-음악 변환 시스템"
+      },
+      {
+        "id": "section-29",
+        "level": 4,
+        "title": "3.2.3 움직임-음악 통합 시스템"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "3.3 창의적 표현 및 이야기 만들기 AI 도구"
+      },
+      {
+        "id": "section-31",
+        "level": 4,
+        "title": "3.3.1 AI 스토리텔링 도구"
+      },
+      {
+        "id": "section-32",
+        "level": 4,
+        "title": "3.3.2 디지털 그림책 제작 도구"
+      },
+      {
+        "id": "section-33",
+        "level": 4,
+        "title": "3.3.3 감정 표현 도구"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "3.4 통합적 예술경험 AI 시스템"
+      },
+      {
+        "id": "section-35",
+        "level": 4,
+        "title": "3.4.1 AI 동료 시스템(Creative Peer System)"
+      },
+      {
+        "id": "section-36",
+        "level": 4,
+        "title": "3.4.2 소셜 로봇과 AI 예술 생성 통합"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "3.4.3 AI 에이전트 맞춤화 시스템"
+      },
+      {
+        "id": "section-38",
+        "level": 2,
+        "title": "4. AI 교재 교구 제작 방법 (Creation Methods for AI Materials and Tools)"
+      },
+      {
+        "id": "section-39",
+        "level": 3,
+        "title": "4.1 생성형 AI 활용 교재 제작"
+      },
+      {
+        "id": "section-40",
+        "level": 4,
+        "title": "4.1.1 디지털 그림책 제작"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "4.1.2 예술 감상 자료 제작"
+      },
+      {
+        "id": "section-42",
+        "level": 4,
+        "title": "4.1.3 음악 및 소리 탐색 자료 제작"
+      },
+      {
+        "id": "section-43",
+        "level": 3,
+        "title": "4.2 교사 주도 디지털 콘텐츠 개발"
+      },
+      {
+        "id": "section-44",
+        "level": 4,
+        "title": "4.2.1 교사 역량 강화 프로그램"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "4.2.2 교육과정 통합 설계"
+      },
+      {
+        "id": "section-46",
+        "level": 3,
+        "title": "4.3 물리적-디지털 통합 교구 설계"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "4.3.1 촉각적 상호작용 교구"
+      },
+      {
+        "id": "section-48",
+        "level": 4,
+        "title": "4.3.2 몬테소리 원리 기반 AI 교구"
+      },
+      {
+        "id": "section-49",
+        "level": 3,
+        "title": "4.4 교재 제작 시 고려사항"
+      },
+      {
+        "id": "section-50",
+        "level": 4,
+        "title": "4.4.1 발달적 적합성"
+      },
+      {
+        "id": "section-51",
+        "level": 4,
+        "title": "4.4.2 문화적 포용성"
+      },
+      {
+        "id": "section-52",
+        "level": 4,
+        "title": "4.4.3 안전성과 윤리"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "4.4.4 접근성"
+      },
+      {
+        "id": "section-54",
+        "level": 2,
+        "title": "5. AI 교재 교구 활용 방법 (Utilization Strategies for AI Materials and Tools)"
+      },
+      {
+        "id": "section-55",
+        "level": 3,
+        "title": "5.1 교실 환경 구성 및 통합 전략"
+      },
+      {
+        "id": "section-56",
+        "level": 4,
+        "title": "5.1.1 물리적 환경 구성"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "5.1.2 시간 구성 및 일과 통합"
+      },
+      {
+        "id": "section-58",
+        "level": 4,
+        "title": "5.1.3 인간-중심 통합 전략"
+      },
+      {
+        "id": "section-59",
+        "level": 3,
+        "title": "5.2 교사의 역할과 상호작용 방식"
+      },
+      {
+        "id": "section-60",
+        "level": 4,
+        "title": "5.2.1 교사의 다중 역할"
+      },
+      {
+        "id": "section-61",
+        "level": 4,
+        "title": "5.2.2 효과적인 상호작용 전략"
+      },
+      {
+        "id": "section-62",
+        "level": 3,
+        "title": "5.3 발달 단계별 활용 지침"
+      },
+      {
+        "id": "section-63",
+        "level": 4,
+        "title": "5.3.1 3세 유아"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "5.3.2 4세 유아"
+      },
+      {
+        "id": "section-65",
+        "level": 4,
+        "title": "5.3.3 5세 유아"
+      },
+      {
+        "id": "section-66",
+        "level": 3,
+        "title": "5.4 평가 및 관찰 방법"
+      },
+      {
+        "id": "section-67",
+        "level": 4,
+        "title": "5.4.1 관찰 영역"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "5.4.2 관찰 방법"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "5.4.3 평가 결과 활용"
+      },
+      {
+        "id": "section-70",
+        "level": 2,
+        "title": "6. 현장 적용 사례 (Field Application Cases)"
+      },
+      {
+        "id": "section-71",
+        "level": 3,
+        "title": "6.1 시각예술 활동 사례"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "6.1.1 사례 1: AI 그림 도구를 활용한 역사적 이미지 탐색"
+      },
+      {
+        "id": "section-73",
+        "level": 4,
+        "title": "6.1.2 사례 2: Joan Miró 작품 탐색 및 AI 도구 활용"
+      },
+      {
+        "id": "section-74",
+        "level": 4,
+        "title": "6.1.3 사례 3: 물리적 블록과 AI 생성 이미지 통합 활동"
+      },
+      {
+        "id": "section-75",
+        "level": 3,
+        "title": "6.2 음악 및 움직임 활동 사례"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "6.2.1 사례 4: AI 음악 도구를 활용한 창의적 표현"
+      },
+      {
+        "id": "section-77",
+        "level": 4,
+        "title": "6.2.2 사례 5: 몬테소리 원리 기반 AI 음높이 블록 활동"
+      },
+      {
+        "id": "section-78",
+        "level": 3,
+        "title": "6.3 창의적 표현 및 극놀이 사례"
+      },
+      {
+        "id": "section-79",
+        "level": 4,
+        "title": "6.3.1 사례 6: ChatGPT와 함께하는 창의적 스토리텔링"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "6.3.2 사례 7: AI 생성 스토리를 활용한 환경교육 및 극놀이"
+      },
+      {
+        "id": "section-81",
+        "level": 3,
+        "title": "6.4 통합 예술경험 프로젝트 사례"
+      },
+      {
+        "id": "section-82",
+        "level": 4,
+        "title": "6.4.1 사례 8: AI 동료 시스템을 활용한 창의성 프로젝트"
+      },
+      {
+        "id": "section-83",
+        "level": 4,
+        "title": "6.4.2 사례 9: 디지털 그림책 제작 통합 프로젝트"
+      },
+      {
+        "id": "section-84",
+        "level": 2,
+        "title": "7. 논의 및 제언 (Discussion and Recommendations)"
+      },
+      {
+        "id": "section-85",
+        "level": 3,
+        "title": "7.1 AI 교재 교구의 교육적 효과"
+      },
+      {
+        "id": "section-86",
+        "level": 4,
+        "title": "7.1.1 창의성과 상상력 증진"
+      },
+      {
+        "id": "section-87",
+        "level": 4,
+        "title": "7.1.2 다중양식 학습 경험"
+      },
+      {
+        "id": "section-88",
+        "level": 4,
+        "title": "7.1.3 개인화된 학습 지원"
+      },
+      {
+        "id": "section-89",
+        "level": 4,
+        "title": "7.1.4 문화유산 접근의 민주화"
+      },
+      {
+        "id": "section-90",
+        "level": 4,
+        "title": "7.1.5 협력과 사회적 상호작용 촉진"
+      },
+      {
+        "id": "section-91",
+        "level": 3,
+        "title": "7.2 실행상의 도전과제"
+      },
+      {
+        "id": "section-92",
+        "level": 4,
+        "title": "7.2.1 기술적 접근성과 자원"
+      },
+      {
+        "id": "section-93",
+        "level": 4,
+        "title": "7.2.2 교사의 기술적 역량과 전문성"
+      },
+      {
+        "id": "section-94",
+        "level": 4,
+        "title": "7.2.3 발달적 적합성 유지"
+      },
+      {
+        "id": "section-95",
+        "level": 4,
+        "title": "7.2.4 윤리적 고려사항"
+      },
+      {
+        "id": "section-96",
+        "level": 4,
+        "title": "7.2.5 평가와 연구의 부족"
+      },
+      {
+        "id": "section-97",
+        "level": 3,
+        "title": "7.3 교사 전문성 개발"
+      },
+      {
+        "id": "section-98",
+        "level": 4,
+        "title": "7.3.1 필요한 역량"
+      },
+      {
+        "id": "section-99",
+        "level": 4,
+        "title": "7.3.2 전문성 개발 전략"
+      },
+      {
+        "id": "section-100",
+        "level": 3,
+        "title": "7.4 미래 방향"
+      },
+      {
+        "id": "section-101",
+        "level": 4,
+        "title": "7.4.1 기술 발전과 교육적 통합"
+      },
+      {
+        "id": "section-102",
+        "level": 4,
+        "title": "7.4.2 포용적이고 공평한 접근"
+      },
+      {
+        "id": "section-103",
+        "level": 4,
+        "title": "7.4.3 인간 중심 가치 유지"
+      },
+      {
+        "id": "section-104",
+        "level": 4,
+        "title": "7.4.4 지속적인 연구와 평가"
+      },
+      {
+        "id": "section-105",
+        "level": 2,
+        "title": "8. 결론 (Conclusion)"
+      },
+      {
+        "id": "section-106",
+        "level": 2,
+        "title": "참고문헌 (References)"
+      }
+    ]
+  },
+  {
+    "id": "arts-2",
+    "domain": "arts",
+    "filename": "AI_Early_Childhood_Arts_Education_Guide.md",
+    "title": "AI 유아 교재 교구 종류 및 제작, 활용: 예술경험 영역",
+    "relativePath": "AI Theory/예술경험 영역/AI_Early_Childhood_Arts_Education_Guide.md",
+    "bytes": 95286,
+    "sha256": "cd706239463f8a204c843715db01d7fb9dc8832190621179c7c9e9a9391910f5",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "AI 유아 교재 교구 종류 및 제작, 활용: 예술경험 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "A Comprehensive Guide to AI Materials and Tools for Early Childhood Arts Education"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차 (Table of Contents)"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약 (Executive Summary)"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.1 연구의 배경 및 필요성"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.2 연구의 목적 및 범위"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "1.3 가이드의 구성"
+      },
+      {
+        "id": "section-8",
+        "level": 2,
+        "title": "2. 이론적 기초 (Theoretical Foundations)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.1 유아교육의 핵심 원리"
+      },
+      {
+        "id": "section-10",
+        "level": 4,
+        "title": "2.1.1 몬테소리 교육 원리"
+      },
+      {
+        "id": "section-11",
+        "level": 4,
+        "title": "2.1.2 레지오 에밀리아 접근법"
+      },
+      {
+        "id": "section-12",
+        "level": 4,
+        "title": "2.1.3 구성주의와 놀이 중심 학습"
+      },
+      {
+        "id": "section-13",
+        "level": 4,
+        "title": "2.1.4 다중양식 학습(Multimodal Learning)"
+      },
+      {
+        "id": "section-14",
+        "level": 4,
+        "title": "2.1.5 발달적으로 적합한 실천(Developmentally Appropriate Practice)"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "2.2 예술경험 영역의 교육적 가치"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "2.3 AI 기술과 유아교육의 통합"
+      },
+      {
+        "id": "section-17",
+        "level": 4,
+        "title": "2.3.1 지능 증강(Intelligence Augmentation) 개념"
+      },
+      {
+        "id": "section-18",
+        "level": 4,
+        "title": "2.3.2 인간-중심(Human-in-the-Loop) 접근법"
+      },
+      {
+        "id": "section-19",
+        "level": 4,
+        "title": "2.3.3 문화유산 접근의 민주화"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "2.3.4 다중양식 창의적 탐구"
+      },
+      {
+        "id": "section-21",
+        "level": 2,
+        "title": "3. 예술경험 영역의 AI 교재 교구 유형 (Types of AI Materials and Tools for Arts Experience Domain)"
+      },
+      {
+        "id": "section-22",
+        "level": 3,
+        "title": "3.1 시각예술 지원 AI 도구"
+      },
+      {
+        "id": "section-23",
+        "level": 4,
+        "title": "3.1.1 AI 기반 그림 생성 도구"
+      },
+      {
+        "id": "section-24",
+        "level": 4,
+        "title": "3.1.2 물리적-디지털 통합 시각예술 도구"
+      },
+      {
+        "id": "section-25",
+        "level": 4,
+        "title": "3.1.3 AI 기반 예술 감상 도구"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "3.2 음악 및 소리 탐색 AI 도구"
+      },
+      {
+        "id": "section-27",
+        "level": 4,
+        "title": "3.2.1 AI 음악 창작 도구"
+      },
+      {
+        "id": "section-28",
+        "level": 4,
+        "title": "3.2.2 시선-음악 변환 시스템"
+      },
+      {
+        "id": "section-29",
+        "level": 4,
+        "title": "3.2.3 움직임-음악 통합 시스템"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "3.3 창의적 표현 및 이야기 만들기 AI 도구"
+      },
+      {
+        "id": "section-31",
+        "level": 4,
+        "title": "3.3.1 AI 스토리텔링 도구"
+      },
+      {
+        "id": "section-32",
+        "level": 4,
+        "title": "3.3.2 디지털 그림책 제작 도구"
+      },
+      {
+        "id": "section-33",
+        "level": 4,
+        "title": "3.3.3 감정 표현 도구"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "3.4 통합적 예술경험 AI 시스템"
+      },
+      {
+        "id": "section-35",
+        "level": 4,
+        "title": "3.4.1 AI 동료 시스템(Creative Peer System)"
+      },
+      {
+        "id": "section-36",
+        "level": 4,
+        "title": "3.4.2 소셜 로봇과 AI 예술 생성 통합"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "3.4.3 AI 에이전트 맞춤화 시스템"
+      },
+      {
+        "id": "section-38",
+        "level": 2,
+        "title": "4. AI 교재 교구 제작 방법 (Creation Methods for AI Materials and Tools)"
+      },
+      {
+        "id": "section-39",
+        "level": 3,
+        "title": "4.1 생성형 AI 활용 교재 제작"
+      },
+      {
+        "id": "section-40",
+        "level": 4,
+        "title": "4.1.1 디지털 그림책 제작"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "4.1.2 예술 감상 자료 제작"
+      },
+      {
+        "id": "section-42",
+        "level": 4,
+        "title": "4.1.3 음악 및 소리 탐색 자료 제작"
+      },
+      {
+        "id": "section-43",
+        "level": 3,
+        "title": "4.2 교사 주도 디지털 콘텐츠 개발"
+      },
+      {
+        "id": "section-44",
+        "level": 4,
+        "title": "4.2.1 교사 역량 강화 프로그램"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "4.2.2 교육과정 통합 설계"
+      },
+      {
+        "id": "section-46",
+        "level": 3,
+        "title": "4.3 물리적-디지털 통합 교구 설계"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "4.3.1 촉각적 상호작용 교구"
+      },
+      {
+        "id": "section-48",
+        "level": 4,
+        "title": "4.3.2 몬테소리 원리 기반 AI 교구"
+      },
+      {
+        "id": "section-49",
+        "level": 3,
+        "title": "4.4 교재 제작 시 고려사항"
+      },
+      {
+        "id": "section-50",
+        "level": 4,
+        "title": "4.4.1 발달적 적합성"
+      },
+      {
+        "id": "section-51",
+        "level": 4,
+        "title": "4.4.2 문화적 포용성"
+      },
+      {
+        "id": "section-52",
+        "level": 4,
+        "title": "4.4.3 안전성과 윤리"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "4.4.4 접근성"
+      },
+      {
+        "id": "section-54",
+        "level": 2,
+        "title": "5. AI 교재 교구 활용 방법 (Utilization Strategies for AI Materials and Tools)"
+      },
+      {
+        "id": "section-55",
+        "level": 3,
+        "title": "5.1 교실 환경 구성 및 통합 전략"
+      },
+      {
+        "id": "section-56",
+        "level": 4,
+        "title": "5.1.1 물리적 환경 구성"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "5.1.2 시간 구성 및 일과 통합"
+      },
+      {
+        "id": "section-58",
+        "level": 4,
+        "title": "5.1.3 인간-중심 통합 전략"
+      },
+      {
+        "id": "section-59",
+        "level": 3,
+        "title": "5.2 교사의 역할과 상호작용 방식"
+      },
+      {
+        "id": "section-60",
+        "level": 4,
+        "title": "5.2.1 교사의 다중 역할"
+      },
+      {
+        "id": "section-61",
+        "level": 4,
+        "title": "5.2.2 효과적인 상호작용 전략"
+      },
+      {
+        "id": "section-62",
+        "level": 3,
+        "title": "5.3 발달 단계별 활용 지침"
+      },
+      {
+        "id": "section-63",
+        "level": 4,
+        "title": "5.3.1 3세 유아"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "5.3.2 4세 유아"
+      },
+      {
+        "id": "section-65",
+        "level": 4,
+        "title": "5.3.3 5세 유아"
+      },
+      {
+        "id": "section-66",
+        "level": 3,
+        "title": "5.4 평가 및 관찰 방법"
+      },
+      {
+        "id": "section-67",
+        "level": 4,
+        "title": "5.4.1 관찰 영역"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "5.4.2 관찰 방법"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "5.4.3 평가 결과 활용"
+      },
+      {
+        "id": "section-70",
+        "level": 2,
+        "title": "6. 현장 적용 사례 (Field Application Cases)"
+      },
+      {
+        "id": "section-71",
+        "level": 3,
+        "title": "6.1 시각예술 활동 사례"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "6.1.1 사례 1: AI 그림 도구를 활용한 역사적 이미지 탐색"
+      },
+      {
+        "id": "section-73",
+        "level": 4,
+        "title": "6.1.2 사례 2: Joan Miró 작품 탐색 및 AI 도구 활용"
+      },
+      {
+        "id": "section-74",
+        "level": 4,
+        "title": "6.1.3 사례 3: 물리적 블록과 AI 생성 이미지 통합 활동"
+      },
+      {
+        "id": "section-75",
+        "level": 3,
+        "title": "6.2 음악 및 움직임 활동 사례"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "6.2.1 사례 4: AI 음악 도구를 활용한 창의적 표현"
+      },
+      {
+        "id": "section-77",
+        "level": 4,
+        "title": "6.2.2 사례 5: 몬테소리 원리 기반 AI 음높이 블록 활동"
+      },
+      {
+        "id": "section-78",
+        "level": 3,
+        "title": "6.3 창의적 표현 및 극놀이 사례"
+      },
+      {
+        "id": "section-79",
+        "level": 4,
+        "title": "6.3.1 사례 6: ChatGPT와 함께하는 창의적 스토리텔링"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "6.3.2 사례 7: AI 생성 스토리를 활용한 환경교육 및 극놀이"
+      },
+      {
+        "id": "section-81",
+        "level": 3,
+        "title": "6.4 통합 예술경험 프로젝트 사례"
+      },
+      {
+        "id": "section-82",
+        "level": 4,
+        "title": "6.4.1 사례 8: AI 동료 시스템을 활용한 창의성 프로젝트"
+      },
+      {
+        "id": "section-83",
+        "level": 4,
+        "title": "6.4.2 사례 9: 디지털 그림책 제작 통합 프로젝트"
+      },
+      {
+        "id": "section-84",
+        "level": 2,
+        "title": "7. 논의 및 제언 (Discussion and Recommendations)"
+      },
+      {
+        "id": "section-85",
+        "level": 3,
+        "title": "7.1 AI 교재 교구의 교육적 효과"
+      },
+      {
+        "id": "section-86",
+        "level": 4,
+        "title": "7.1.1 창의성과 상상력 증진"
+      },
+      {
+        "id": "section-87",
+        "level": 4,
+        "title": "7.1.2 다중양식 학습 경험"
+      },
+      {
+        "id": "section-88",
+        "level": 4,
+        "title": "7.1.3 개인화된 학습 지원"
+      },
+      {
+        "id": "section-89",
+        "level": 4,
+        "title": "7.1.4 문화유산 접근의 민주화"
+      },
+      {
+        "id": "section-90",
+        "level": 4,
+        "title": "7.1.5 협력과 사회적 상호작용 촉진"
+      },
+      {
+        "id": "section-91",
+        "level": 3,
+        "title": "7.2 실행상의 도전과제"
+      },
+      {
+        "id": "section-92",
+        "level": 4,
+        "title": "7.2.1 기술적 접근성과 자원"
+      },
+      {
+        "id": "section-93",
+        "level": 4,
+        "title": "7.2.2 교사의 기술적 역량과 전문성"
+      },
+      {
+        "id": "section-94",
+        "level": 4,
+        "title": "7.2.3 발달적 적합성 유지"
+      },
+      {
+        "id": "section-95",
+        "level": 4,
+        "title": "7.2.4 윤리적 고려사항"
+      },
+      {
+        "id": "section-96",
+        "level": 4,
+        "title": "7.2.5 평가와 연구의 부족"
+      },
+      {
+        "id": "section-97",
+        "level": 3,
+        "title": "7.3 교사 전문성 개발"
+      },
+      {
+        "id": "section-98",
+        "level": 4,
+        "title": "7.3.1 필요한 역량"
+      },
+      {
+        "id": "section-99",
+        "level": 4,
+        "title": "7.3.2 전문성 개발 전략"
+      },
+      {
+        "id": "section-100",
+        "level": 3,
+        "title": "7.4 미래 방향"
+      },
+      {
+        "id": "section-101",
+        "level": 4,
+        "title": "7.4.1 기술 발전과 교육적 통합"
+      },
+      {
+        "id": "section-102",
+        "level": 4,
+        "title": "7.4.2 포용적이고 공평한 접근"
+      },
+      {
+        "id": "section-103",
+        "level": 4,
+        "title": "7.4.3 인간 중심 가치 유지"
+      },
+      {
+        "id": "section-104",
+        "level": 4,
+        "title": "7.4.4 지속적인 연구와 평가"
+      },
+      {
+        "id": "section-105",
+        "level": 2,
+        "title": "8. 결론 (Conclusion)"
+      },
+      {
+        "id": "section-106",
+        "level": 2,
+        "title": "참고문헌 (References)"
+      },
+      {
+        "id": "section-107",
+        "level": 3,
+        "title": "추가 자료 (Additional Resources)"
+      }
+    ]
+  },
+  {
+    "id": "arts-3",
+    "domain": "arts",
+    "filename": "유아 교재 교구 종류 및 제작, 활용 예술경험 영역-가이드.md",
+    "title": "유아 교재 교구의 종류 및 제작, 활용: 예술경험 영역",
+    "relativePath": "AI Theory/예술경험 영역/유아 교재 교구 종류 및 제작, 활용 예술경험 영역-가이드.md",
+    "bytes": 88369,
+    "sha256": "198d6db7d0ab3b1eda4db5728b2aa98e166102198205a2c975ddf3939363c8dc",
+    "kind": "general",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 교재 교구의 종류 및 제작, 활용: 예술경험 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "Types, Creation, and Utilization of Early Childhood Teaching Materials: Arts Experience Domain"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차 (Table of Contents)"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약 (Executive Summary)"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.1 연구의 필요성과 목적"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.2 예술경험 영역의 중요성"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "1.3 가이드의 구성과 활용 방법"
+      },
+      {
+        "id": "section-8",
+        "level": 2,
+        "title": "2. 예술경험 영역의 이론적 기초 (Theoretical Foundations of Arts Experience Domain)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.1 레지오 에밀리아 접근법 (Reggio Emilia Approach)"
+      },
+      {
+        "id": "section-10",
+        "level": 4,
+        "title": "2.1.1 아틀리에와 아틀리에리스타의 역할"
+      },
+      {
+        "id": "section-11",
+        "level": 4,
+        "title": "2.1.2 재료의 풍부성과 탐색"
+      },
+      {
+        "id": "section-12",
+        "level": 4,
+        "title": "2.1.3 프로젝트 기반 학습과 기록화"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "2.2 몬테소리 교육철학 (Montessori Educational Philosophy)"
+      },
+      {
+        "id": "section-14",
+        "level": 4,
+        "title": "2.2.1 감각 교육과 예술"
+      },
+      {
+        "id": "section-15",
+        "level": 4,
+        "title": "2.2.2 준비된 환경과 자기주도적 학습"
+      },
+      {
+        "id": "section-16",
+        "level": 4,
+        "title": "2.2.3 순차적 학습과 개별화"
+      },
+      {
+        "id": "section-17",
+        "level": 3,
+        "title": "2.3 발달적으로 적합한 실제 (Developmentally Appropriate Practice, DAP)"
+      },
+      {
+        "id": "section-18",
+        "level": 4,
+        "title": "2.3.1 DAP의 세 가지 핵심 차원"
+      },
+      {
+        "id": "section-19",
+        "level": 4,
+        "title": "2.3.2 놀이 중심 학습"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "2.3.3 통합적 접근"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "2.4 구성주의 이론 (Constructivist Theory)"
+      },
+      {
+        "id": "section-22",
+        "level": 4,
+        "title": "2.4.1 피아제의 인지 구성주의"
+      },
+      {
+        "id": "section-23",
+        "level": 4,
+        "title": "2.4.2 비고츠키의 사회문화적 구성주의"
+      },
+      {
+        "id": "section-24",
+        "level": 4,
+        "title": "2.4.3 구성주의와 창의성"
+      },
+      {
+        "id": "section-25",
+        "level": 3,
+        "title": "2.5 이론의 통합적 적용"
+      },
+      {
+        "id": "section-26",
+        "level": 2,
+        "title": "3. 예술경험 영역 교재 교구의 분류 체계 (Classification System of Arts Experience Materials)"
+      },
+      {
+        "id": "section-27",
+        "level": 3,
+        "title": "3.1 음악 영역 교재 교구 (Music Domain Materials)"
+      },
+      {
+        "id": "section-28",
+        "level": 4,
+        "title": "3.1.1 리듬 악기 (Rhythm Instruments)"
+      },
+      {
+        "id": "section-29",
+        "level": 4,
+        "title": "3.1.2 선율 악기 (Melodic Instruments)"
+      },
+      {
+        "id": "section-30",
+        "level": 4,
+        "title": "3.1.3 음악 감상 및 녹음 교구 (Music Listening and Recording Materials)"
+      },
+      {
+        "id": "section-31",
+        "level": 4,
+        "title": "3.1.4 음악 교육 보조 자료 (Music Education Support Materials)"
+      },
+      {
+        "id": "section-32",
+        "level": 3,
+        "title": "3.2 미술 영역 교재 교구 (Visual Arts Domain Materials)"
+      },
+      {
+        "id": "section-33",
+        "level": 4,
+        "title": "3.2.1 그리기 재료 (Drawing Materials)"
+      },
+      {
+        "id": "section-34",
+        "level": 4,
+        "title": "3.2.2 회화 재료 (Painting Materials)"
+      },
+      {
+        "id": "section-35",
+        "level": 4,
+        "title": "3.2.3 조형 재료 (Sculpture and 3D Materials)"
+      },
+      {
+        "id": "section-36",
+        "level": 4,
+        "title": "3.2.4 콜라주와 혼합 재료 (Collage and Mixed Media)"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "3.2.5 디지털 미술 도구 (Digital Art Tools)"
+      },
+      {
+        "id": "section-38",
+        "level": 3,
+        "title": "3.3 동작 영역 교재 교구 (Movement Domain Materials)"
+      },
+      {
+        "id": "section-39",
+        "level": 4,
+        "title": "3.3.1 기본 동작 교구 (Basic Movement Equipment)"
+      },
+      {
+        "id": "section-40",
+        "level": 4,
+        "title": "3.3.2 리듬 동작 교구 (Rhythmic Movement Equipment)"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "3.3.3 창의적 동작 소품 (Creative Movement Props)"
+      },
+      {
+        "id": "section-42",
+        "level": 4,
+        "title": "3.3.4 전통 동작 교구 (Traditional Movement Materials)"
+      },
+      {
+        "id": "section-43",
+        "level": 4,
+        "title": "3.3.5 협동 동작 교구 (Cooperative Movement Equipment)"
+      },
+      {
+        "id": "section-44",
+        "level": 3,
+        "title": "3.4 통합 예술 교재 교구 (Integrated Arts Materials)"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "3.4.1 멀티미디어 교구 (Multimedia Materials)"
+      },
+      {
+        "id": "section-46",
+        "level": 4,
+        "title": "3.4.2 프로젝트 기반 교구 (Project-Based Materials)"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "3.4.3 느슨한 부품 (Loose Parts)"
+      },
+      {
+        "id": "section-48",
+        "level": 2,
+        "title": "4. 교재 교구 제작 방법론 (Methodology for Creating Educational Materials)"
+      },
+      {
+        "id": "section-49",
+        "level": 3,
+        "title": "4.1 제작 원리와 기준 (Principles and Standards for Creation)"
+      },
+      {
+        "id": "section-50",
+        "level": 4,
+        "title": "4.1.1 안전성 (Safety)"
+      },
+      {
+        "id": "section-51",
+        "level": 4,
+        "title": "4.1.2 발달 적합성 (Developmental Appropriateness)"
+      },
+      {
+        "id": "section-52",
+        "level": 4,
+        "title": "4.1.3 교육적 가치 (Educational Value)"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "4.1.4 심미성 (Aesthetics)"
+      },
+      {
+        "id": "section-54",
+        "level": 4,
+        "title": "4.1.5 지속가능성 (Sustainability)"
+      },
+      {
+        "id": "section-55",
+        "level": 3,
+        "title": "4.2 음악 교재 교구 제작 (Creating Music Materials)"
+      },
+      {
+        "id": "section-56",
+        "level": 4,
+        "title": "4.2.1 쉐이커 제작 (Making Shakers)"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "4.2.2 북 제작 (Making Drums)"
+      },
+      {
+        "id": "section-58",
+        "level": 4,
+        "title": "4.2.3 실로폰 제작 (Making Xylophones)"
+      },
+      {
+        "id": "section-59",
+        "level": 4,
+        "title": "4.2.4 리듬 스틱 제작 (Making Rhythm Sticks)"
+      },
+      {
+        "id": "section-60",
+        "level": 4,
+        "title": "4.2.5 음악 감상 카드 제작 (Making Music Listening Cards)"
+      },
+      {
+        "id": "section-61",
+        "level": 3,
+        "title": "4.3 미술 교재 교구 제작 (Creating Visual Arts Materials)"
+      },
+      {
+        "id": "section-62",
+        "level": 4,
+        "title": "4.3.1 플레이도우 제작 (Making Play Dough)"
+      },
+      {
+        "id": "section-63",
+        "level": 4,
+        "title": "4.3.2 핑거 페인트 제작 (Making Finger Paint)"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "4.3.3 콜라주 보드 제작 (Making Collage Boards)"
+      },
+      {
+        "id": "section-65",
+        "level": 4,
+        "title": "4.3.4 그림 도구 제작 (Making Drawing Tools)"
+      },
+      {
+        "id": "section-66",
+        "level": 4,
+        "title": "4.3.5 라이트 테이블 제작 (Making Light Table)"
+      },
+      {
+        "id": "section-67",
+        "level": 3,
+        "title": "4.4 동작 교재 교구 제작 (Creating Movement Materials)"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "4.4.1 리본 막대 제작 (Making Ribbon Wands)"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "4.4.2 손목/발목 방울 제작 (Making Wrist/Ankle Bells)"
+      },
+      {
+        "id": "section-70",
+        "level": 4,
+        "title": "4.4.3 스카프 제작 (Making Scarves)"
+      },
+      {
+        "id": "section-71",
+        "level": 4,
+        "title": "4.4.4 평균대 제작 (Making Balance Beam)"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "4.4.5 파라슈트 대체 교구 제작 (Making Parachute Alternative)"
+      },
+      {
+        "id": "section-73",
+        "level": 2,
+        "title": "5. 교재 교구 활용 전략 (Utilization Strategies for Educational Materials)"
+      },
+      {
+        "id": "section-74",
+        "level": 3,
+        "title": "5.1 발달 단계별 활용 방법 (Developmental Stage-Based Utilization)"
+      },
+      {
+        "id": "section-75",
+        "level": 4,
+        "title": "5.1.1 3세 유아를 위한 활용 전략"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "5.1.2 4세 유아를 위한 활용 전략"
+      },
+      {
+        "id": "section-77",
+        "level": 4,
+        "title": "5.1.3 5세 유아를 위한 활용 전략"
+      },
+      {
+        "id": "section-78",
+        "level": 3,
+        "title": "5.2 교육과정 통합 전략 (Curriculum Integration Strategies)"
+      },
+      {
+        "id": "section-79",
+        "level": 4,
+        "title": "5.2.1 언어와 예술 통합"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "5.2.2 수학과 예술 통합"
+      },
+      {
+        "id": "section-81",
+        "level": 4,
+        "title": "5.2.3 과학과 예술 통합"
+      },
+      {
+        "id": "section-82",
+        "level": 4,
+        "title": "5.2.4 사회정서와 예술 통합"
+      },
+      {
+        "id": "section-83",
+        "level": 3,
+        "title": "5.3 환경 구성과 배치 (Environmental Setup and Arrangement)"
+      },
+      {
+        "id": "section-84",
+        "level": 4,
+        "title": "5.3.1 공간 구성 원리"
+      },
+      {
+        "id": "section-85",
+        "level": 4,
+        "title": "5.3.2 음악 영역 환경 구성"
+      },
+      {
+        "id": "section-86",
+        "level": 4,
+        "title": "5.3.3 미술 영역 환경 구성"
+      },
+      {
+        "id": "section-87",
+        "level": 4,
+        "title": "5.3.4 동작 영역 환경 구성"
+      },
+      {
+        "id": "section-88",
+        "level": 4,
+        "title": "5.3.5 통합 공간 구성"
+      },
+      {
+        "id": "section-89",
+        "level": 2,
+        "title": "6. 유치원 현장 적용 사례 (Field Application Cases in Kindergarten Settings)"
+      },
+      {
+        "id": "section-90",
+        "level": 3,
+        "title": "6.1 음악 영역 실행 사례 (Music Domain Implementation Cases)"
+      },
+      {
+        "id": "section-91",
+        "level": 4,
+        "title": "6.1.1 사례 1: 전통 악기를 활용한 문화 교육"
+      },
+      {
+        "id": "section-92",
+        "level": 4,
+        "title": "6.1.2 사례 2: 음악 만들기 프로젝트"
+      },
+      {
+        "id": "section-93",
+        "level": 3,
+        "title": "6.2 미술 영역 실행 사례 (Visual Arts Domain Implementation Cases)"
+      },
+      {
+        "id": "section-94",
+        "level": 4,
+        "title": "6.2.1 사례 3: 레지오 영감 장기 프로젝트 - \"우리 동네\""
+      },
+      {
+        "id": "section-95",
+        "level": 4,
+        "title": "6.2.2 사례 4: 자연 재료를 활용한 계절 미술"
+      },
+      {
+        "id": "section-96",
+        "level": 3,
+        "title": "6.3 동작 영역 실행 사례 (Movement Domain Implementation Cases)"
+      },
+      {
+        "id": "section-97",
+        "level": 4,
+        "title": "6.3.1 사례 5: 창의적 동작을 통한 이야기 표현"
+      },
+      {
+        "id": "section-98",
+        "level": 4,
+        "title": "6.3.2 사례 6: 전통 춤을 통한 문화 교육"
+      },
+      {
+        "id": "section-99",
+        "level": 3,
+        "title": "6.4 통합 예술 프로젝트 사례 (Integrated Arts Project Cases)"
+      },
+      {
+        "id": "section-100",
+        "level": 4,
+        "title": "6.4.1 사례 7: \"사계절\" 통합 예술 프로젝트"
+      },
+      {
+        "id": "section-101",
+        "level": 4,
+        "title": "6.4.2 사례 8: 디지털 기술을 활용한 멀티미디어 프로젝트"
+      },
+      {
+        "id": "section-102",
+        "level": 2,
+        "title": "7. 논의 및 제언 (Discussion and Recommendations)"
+      },
+      {
+        "id": "section-103",
+        "level": 3,
+        "title": "7.1 주요 발견 및 시사점"
+      },
+      {
+        "id": "section-104",
+        "level": 4,
+        "title": "7.1.1 이론과 실제의 통합"
+      },
+      {
+        "id": "section-105",
+        "level": 4,
+        "title": "7.1.2 교재 교구의 다양성과 개방성"
+      },
+      {
+        "id": "section-106",
+        "level": 4,
+        "title": "7.1.3 발달 적합성과 개별화"
+      },
+      {
+        "id": "section-107",
+        "level": 4,
+        "title": "7.1.4 통합적 접근의 중요성"
+      },
+      {
+        "id": "section-108",
+        "level": 4,
+        "title": "7.1.5 교사의 역할"
+      },
+      {
+        "id": "section-109",
+        "level": 3,
+        "title": "7.2 제한점"
+      },
+      {
+        "id": "section-110",
+        "level": 4,
+        "title": "7.2.1 연구 문헌의 한계"
+      },
+      {
+        "id": "section-111",
+        "level": 4,
+        "title": "7.2.2 현장 적용의 다양성"
+      },
+      {
+        "id": "section-112",
+        "level": 4,
+        "title": "7.2.3 평가 도구의 부재"
+      },
+      {
+        "id": "section-113",
+        "level": 3,
+        "title": "7.3 향후 연구 및 실천을 위한 제언"
+      },
+      {
+        "id": "section-114",
+        "level": 4,
+        "title": "7.3.1 연구 제언"
+      },
+      {
+        "id": "section-115",
+        "level": 4,
+        "title": "7.3.2 실천 제언"
+      },
+      {
+        "id": "section-116",
+        "level": 2,
+        "title": "8. 결론 (Conclusion)"
+      },
+      {
+        "id": "section-117",
+        "level": 2,
+        "title": "참고문헌 (References)"
+      }
+    ]
+  },
+  {
+    "id": "language-1",
+    "domain": "language",
+    "filename": "ai_early_childhood_education_insights.md",
+    "title": "ai_early_childhood_education_insights",
+    "relativePath": "AI Theory/의사소통 영역/ai_early_childhood_education_insights.md",
+    "bytes": 15775,
+    "sha256": "0657681eba0e1abec26ade369fa78295f5b661d4b44141c5c094beeb658c2ff3",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 2,
+        "title": "TL;DR"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "Types of tools"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "Design and development methods"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "Theories and integration"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "Field cases and outcomes"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "Teacher guidelines and assessment"
+      }
+    ]
+  },
+  {
+    "id": "language-2",
+    "domain": "language",
+    "filename": "유아 AI 교재 교구 종류 및 제작, 활용 언어(의사소통) 영역.md",
+    "title": "유아 AI 교재 교구의 종류 및 제작, 활용: 언어(의사소통) 영역",
+    "relativePath": "AI Theory/의사소통 영역/유아 AI 교재 교구 종류 및 제작, 활용 언어(의사소통) 영역.md",
+    "bytes": 77884,
+    "sha256": "77de69a90cd0b0ed0677a2fed4c4f108fd128f4782cece48e6ee29e0b44ad37f",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 AI 교재 교구의 종류 및 제작, 활용: 언어(의사소통) 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "목차"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "요약"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "1. 서론: 유아 AI 교육의 배경과 필요성"
+      },
+      {
+        "id": "section-4",
+        "level": 3,
+        "title": "1.1 유아 언어 교육의 현대적 과제"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.2 AI 기술의 교육적 잠재력"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.3 본 가이드의 목적과 구성"
+      },
+      {
+        "id": "section-7",
+        "level": 2,
+        "title": "2. 이론적 기초: 발달 이론과 AI의 통합"
+      },
+      {
+        "id": "section-8",
+        "level": 3,
+        "title": "2.1 Piaget의 인지발달 이론과 AI 적용"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.2 Vygotsky의 사회문화 이론과 근접발달영역(ZPD)"
+      },
+      {
+        "id": "section-10",
+        "level": 3,
+        "title": "2.3 Montessori 원리와 AI 교구 설계"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "2.4 이론 통합의 실천적 함의"
+      },
+      {
+        "id": "section-12",
+        "level": 2,
+        "title": "3. AI 교재 교구의 유형"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.1 기능별 분류"
+      },
+      {
+        "id": "section-14",
+        "level": 3,
+        "title": "3.2 기술별 분류"
+      },
+      {
+        "id": "section-15",
+        "level": 3,
+        "title": "3.3 학습목표별 분류"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "3.4 유형별 특징 비교표"
+      },
+      {
+        "id": "section-17",
+        "level": 2,
+        "title": "4. AI 교재 교구 제작 방법"
+      },
+      {
+        "id": "section-18",
+        "level": 3,
+        "title": "4.1 설계 원리와 발달 적합성"
+      },
+      {
+        "id": "section-19",
+        "level": 3,
+        "title": "4.2 단계별 개발 프로세스"
+      },
+      {
+        "id": "section-20",
+        "level": 3,
+        "title": "4.3 기술적 접근 방법"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "4.4 유아 중심 설계 지침"
+      },
+      {
+        "id": "section-22",
+        "level": 2,
+        "title": "5. 현장 적용 사례"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "5.1 대화형 읽기 프로그램"
+      },
+      {
+        "id": "section-24",
+        "level": 3,
+        "title": "5.2 소셜 로봇 스토리텔링"
+      },
+      {
+        "id": "section-25",
+        "level": 3,
+        "title": "5.3 이중언어 교육 프로그램"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "5.4 증강현실 기반 언어 학습"
+      },
+      {
+        "id": "section-27",
+        "level": 3,
+        "title": "5.5 언어치료 지원 시스템"
+      },
+      {
+        "id": "section-28",
+        "level": 3,
+        "title": "5.6 성공 요인과 도전 과제"
+      },
+      {
+        "id": "section-29",
+        "level": 2,
+        "title": "6. 교사를 위한 활용 지침"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "6.1 교실 통합 전략"
+      },
+      {
+        "id": "section-31",
+        "level": 3,
+        "title": "6.2 효과적 활용을 위한 준비"
+      },
+      {
+        "id": "section-32",
+        "level": 3,
+        "title": "6.3 교사의 역할과 중재"
+      },
+      {
+        "id": "section-33",
+        "level": 3,
+        "title": "6.4 가족 참여 촉진"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "6.5 윤리적 실천"
+      },
+      {
+        "id": "section-35",
+        "level": 2,
+        "title": "7. 평가 및 효과성 측정"
+      },
+      {
+        "id": "section-36",
+        "level": 3,
+        "title": "7.1 평가 설계 원칙"
+      },
+      {
+        "id": "section-37",
+        "level": 3,
+        "title": "7.2 측정 도구와 방법"
+      },
+      {
+        "id": "section-38",
+        "level": 3,
+        "title": "7.3 효과성 지표"
+      },
+      {
+        "id": "section-39",
+        "level": 3,
+        "title": "7.4 윤리적 고려사항"
+      },
+      {
+        "id": "section-40",
+        "level": 2,
+        "title": "8. 결론 및 제언"
+      },
+      {
+        "id": "section-41",
+        "level": 3,
+        "title": "8.1 주요 발견 요약"
+      },
+      {
+        "id": "section-42",
+        "level": 3,
+        "title": "8.2 한국 유아교육 현장을 위한 제언"
+      },
+      {
+        "id": "section-43",
+        "level": 3,
+        "title": "8.3 향후 연구 방향"
+      },
+      {
+        "id": "section-44",
+        "level": 2,
+        "title": "참고문헌"
+      }
+    ]
+  },
+  {
+    "id": "language-3",
+    "domain": "language",
+    "filename": "유아 교재 교구 종류 및 제작, 활용 언어(의사소통) 영역.md",
+    "title": "유아 교재 교구 종류 및 제작, 활용: 언어(의사소통) 영역",
+    "relativePath": "AI Theory/의사소통 영역/유아 교재 교구 종류 및 제작, 활용 언어(의사소통) 영역.md",
+    "bytes": 64829,
+    "sha256": "17bf3f16638b310d078a6e8d617e11b2743dd4c76f5dc41b4b9c2745f0a83532",
+    "kind": "general",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 교재 교구 종류 및 제작, 활용: 언어(의사소통) 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "3-5세 유아 교사를 위한 종합 가이드"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "목차 (Table of Contents)"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "요약 (Executive Summary)"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론 (Introduction)"
+      },
+      {
+        "id": "section-5",
+        "level": 3,
+        "title": "1.1. 가이드의 목적"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "1.2. 가이드의 구성"
+      },
+      {
+        "id": "section-7",
+        "level": 2,
+        "title": "2. 이론적 배경 및 기초 (Background and Theoretical Foundations)"
+      },
+      {
+        "id": "section-8",
+        "level": 3,
+        "title": "2.1. 창발적 문해 이론 (Emergent Literacy Theory)"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.2. 사회문화적 학습 이론 (Sociocultural Learning Theory)"
+      },
+      {
+        "id": "section-10",
+        "level": 3,
+        "title": "2.3. 몬테소리 및 다감각 접근법 (Montessori and Multisensory Approaches)"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "2.4. 언어경험 접근법 (Language Experience Approach)"
+      },
+      {
+        "id": "section-12",
+        "level": 3,
+        "title": "2.5. 이론의 통합적 적용"
+      },
+      {
+        "id": "section-13",
+        "level": 2,
+        "title": "3. 언어(의사소통) 교재 교구의 종류 (Types of Language and Communication Materials)"
+      },
+      {
+        "id": "section-14",
+        "level": 3,
+        "title": "3.1. 읽기 교재 교구 (Reading Materials and Tools)"
+      },
+      {
+        "id": "section-15",
+        "level": 4,
+        "title": "3.1.1. 알파벳 및 문자 인식 교구"
+      },
+      {
+        "id": "section-16",
+        "level": 4,
+        "title": "3.1.2. 음운 인식 교구"
+      },
+      {
+        "id": "section-17",
+        "level": 4,
+        "title": "3.1.3. 그림책 및 읽기 자료"
+      },
+      {
+        "id": "section-18",
+        "level": 4,
+        "title": "3.1.4. 인쇄물 개념 교구"
+      },
+      {
+        "id": "section-19",
+        "level": 3,
+        "title": "3.2. 쓰기 교재 교구 (Writing Materials and Tools)"
+      },
+      {
+        "id": "section-20",
+        "level": 4,
+        "title": "3.2.1. 기본 쓰기 도구"
+      },
+      {
+        "id": "section-21",
+        "level": 4,
+        "title": "3.2.2. 발명적 철자 및 쓰기 발달 도구"
+      },
+      {
+        "id": "section-22",
+        "level": 4,
+        "title": "3.2.3. 자기 저작 도구"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "3.3. 의사소통 및 구어 발달 교구 (Communication and Oral Language Development Tools)"
+      },
+      {
+        "id": "section-24",
+        "level": 4,
+        "title": "3.3.1. 대화 및 상호작용 도구"
+      },
+      {
+        "id": "section-25",
+        "level": 4,
+        "title": "3.3.2. 어휘 및 이해 발달 자료"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "3.4. 디지털 및 멀티미디어 교구 (Digital and Multimedia Tools)"
+      },
+      {
+        "id": "section-27",
+        "level": 4,
+        "title": "3.4.1. 디지털 애플리케이션"
+      },
+      {
+        "id": "section-28",
+        "level": 4,
+        "title": "3.4.2. 멀티미디어 자원"
+      },
+      {
+        "id": "section-29",
+        "level": 3,
+        "title": "3.5. 통합적 교재 교구 (Integrated Materials and Tools)"
+      },
+      {
+        "id": "section-30",
+        "level": 4,
+        "title": "3.5.1. 게임 및 놀이 기반 교구"
+      },
+      {
+        "id": "section-31",
+        "level": 4,
+        "title": "3.5.2. 재활용 및 환경 자료"
+      },
+      {
+        "id": "section-32",
+        "level": 4,
+        "title": "3.5.3. 커리큘럼 패키지"
+      },
+      {
+        "id": "section-33",
+        "level": 2,
+        "title": "4. 교재 교구 제작 방법 (Methods for Creating Materials and Tools)"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "4.1. 제작 원칙 및 고려사항"
+      },
+      {
+        "id": "section-35",
+        "level": 4,
+        "title": "4.1.1. 발달적 적합성 (Developmental Appropriateness)"
+      },
+      {
+        "id": "section-36",
+        "level": 4,
+        "title": "4.1.2. 의미 있는 맥락 (Meaningful Context)"
+      },
+      {
+        "id": "section-37",
+        "level": 4,
+        "title": "4.1.3. 문화적 관련성 (Cultural Relevance)"
+      },
+      {
+        "id": "section-38",
+        "level": 4,
+        "title": "4.1.4. 다감각적 접근 (Multisensory Approach)"
+      },
+      {
+        "id": "section-39",
+        "level": 4,
+        "title": "4.1.5. 자기주도적 학습 지원 (Supporting Self-Directed Learning)"
+      },
+      {
+        "id": "section-40",
+        "level": 3,
+        "title": "4.2. 구체적 제작 방법"
+      },
+      {
+        "id": "section-41",
+        "level": 4,
+        "title": "4.2.1. 문자 및 알파벳 교구 제작"
+      },
+      {
+        "id": "section-42",
+        "level": 4,
+        "title": "4.2.2. 쓰기 교구 제작"
+      },
+      {
+        "id": "section-43",
+        "level": 4,
+        "title": "4.2.3. 읽기 교구 제작"
+      },
+      {
+        "id": "section-44",
+        "level": 4,
+        "title": "4.2.4. 디지털 교구 활용 및 제작"
+      },
+      {
+        "id": "section-45",
+        "level": 4,
+        "title": "4.2.5. 게임 및 놀이 기반 교구 제작"
+      },
+      {
+        "id": "section-46",
+        "level": 3,
+        "title": "4.3. 문화적 맥락화 및 적응"
+      },
+      {
+        "id": "section-47",
+        "level": 4,
+        "title": "4.3.1. 한국 문화 맥락에서의 적응"
+      },
+      {
+        "id": "section-48",
+        "level": 4,
+        "title": "4.3.2. 다문화 및 이중언어 환경 적응"
+      },
+      {
+        "id": "section-49",
+        "level": 4,
+        "title": "4.3.3. 저소득층 및 위험군 유아를 위한 적응"
+      },
+      {
+        "id": "section-50",
+        "level": 2,
+        "title": "5. 교재 교구 활용 방법 (Utilization Strategies for Materials and Tools)"
+      },
+      {
+        "id": "section-51",
+        "level": 3,
+        "title": "5.1. 교실 환경 구성 (Preparing the Classroom Environment)"
+      },
+      {
+        "id": "section-52",
+        "level": 4,
+        "title": "5.1.1. 언어 및 문해가 풍부한 환경 조성"
+      },
+      {
+        "id": "section-53",
+        "level": 4,
+        "title": "5.1.2. 자료의 접근성 및 조직"
+      },
+      {
+        "id": "section-54",
+        "level": 3,
+        "title": "5.2. 전체 집단 활동 (Whole-Group Literacy Instruction)"
+      },
+      {
+        "id": "section-55",
+        "level": 4,
+        "title": "5.2.1. 아침 메시지 (Morning Message)"
+      },
+      {
+        "id": "section-56",
+        "level": 4,
+        "title": "5.2.2. 공유 읽기 (Shared Reading)"
+      },
+      {
+        "id": "section-57",
+        "level": 4,
+        "title": "5.2.3. Shared Journal"
+      },
+      {
+        "id": "section-58",
+        "level": 3,
+        "title": "5.3. 소집단 활동 (Small-Group Literacy Instruction)"
+      },
+      {
+        "id": "section-59",
+        "level": 4,
+        "title": "5.3.1. 안내된 읽기 (Guided Reading)"
+      },
+      {
+        "id": "section-60",
+        "level": 4,
+        "title": "5.3.2. 음운 인식 및 파닉스 활동"
+      },
+      {
+        "id": "section-61",
+        "level": 4,
+        "title": "5.3.3. 쓰기 워크숍 (Writing Workshop)"
+      },
+      {
+        "id": "section-62",
+        "level": 3,
+        "title": "5.4. 개별화 교수 (Differentiating Instruction)"
+      },
+      {
+        "id": "section-63",
+        "level": 4,
+        "title": "5.4.1. 평가 기반 개별화"
+      },
+      {
+        "id": "section-64",
+        "level": 4,
+        "title": "5.4.2. 발달 수준에 따른 적응"
+      },
+      {
+        "id": "section-65",
+        "level": 4,
+        "title": "5.4.3. 특별한 필요를 가진 유아 지원"
+      },
+      {
+        "id": "section-66",
+        "level": 3,
+        "title": "5.5. 평가 및 관찰 (Assessment and Observation)"
+      },
+      {
+        "id": "section-67",
+        "level": 4,
+        "title": "5.5.1. 형성 평가 (Formative Assessment)"
+      },
+      {
+        "id": "section-68",
+        "level": 4,
+        "title": "5.5.2. 총괄 평가 (Summative Assessment)"
+      },
+      {
+        "id": "section-69",
+        "level": 4,
+        "title": "5.5.3. 평가 결과의 활용"
+      },
+      {
+        "id": "section-70",
+        "level": 2,
+        "title": "6. 유아교육 현장 적용 사례 (Field Implementation Cases)"
+      },
+      {
+        "id": "section-71",
+        "level": 3,
+        "title": "6.1. 국제 사례"
+      },
+      {
+        "id": "section-72",
+        "level": 4,
+        "title": "6.1.1. 미국: 하와이 유치원의 읽기-쓰기 통합 커리큘럼"
+      },
+      {
+        "id": "section-73",
+        "level": 4,
+        "title": "6.1.2. 캐나다: Early Authors Program"
+      },
+      {
+        "id": "section-74",
+        "level": 4,
+        "title": "6.1.3. 미국: Teaching Early Literacy and Language (TELL) 커리큘럼"
+      },
+      {
+        "id": "section-75",
+        "level": 4,
+        "title": "6.1.4. 인도네시아: 디지털 매체 통합"
+      },
+      {
+        "id": "section-76",
+        "level": 4,
+        "title": "6.1.5. 에콰도르: 몬테소리 교구의 문화적 적응"
+      },
+      {
+        "id": "section-77",
+        "level": 3,
+        "title": "6.2. 한국 맥락 적용"
+      },
+      {
+        "id": "section-78",
+        "level": 4,
+        "title": "6.2.1. 누리과정과의 연계"
+      },
+      {
+        "id": "section-79",
+        "level": 4,
+        "title": "6.2.2. 한글 교육의 특성 반영"
+      },
+      {
+        "id": "section-80",
+        "level": 4,
+        "title": "6.2.3. 한국 문화 요소 통합"
+      },
+      {
+        "id": "section-81",
+        "level": 4,
+        "title": "6.2.4. 가족 참여 강화"
+      },
+      {
+        "id": "section-82",
+        "level": 3,
+        "title": "6.3. 저소득층 및 다문화 환경"
+      },
+      {
+        "id": "section-83",
+        "level": 4,
+        "title": "6.3.1. 저소득층 유아를 위한 전략"
+      },
+      {
+        "id": "section-84",
+        "level": 4,
+        "title": "6.3.2. 다문화 가정 유아를 위한 전략"
+      },
+      {
+        "id": "section-85",
+        "level": 4,
+        "title": "6.3.3. 성공 사례: Early Authors Program의 적용"
+      },
+      {
+        "id": "section-86",
+        "level": 2,
+        "title": "7. 교사 전문성 개발 및 실행 지침 (Teacher Professional Development and Implementation Guidelines)"
+      },
+      {
+        "id": "section-87",
+        "level": 3,
+        "title": "7.1. 교사 전문성 개발의 중요성"
+      },
+      {
+        "id": "section-88",
+        "level": 3,
+        "title": "7.2. 전문성 개발 방법"
+      },
+      {
+        "id": "section-89",
+        "level": 4,
+        "title": "7.2.1. 워크숍 및 세미나"
+      },
+      {
+        "id": "section-90",
+        "level": 4,
+        "title": "7.2.2. 코칭 및 멘토링"
+      },
+      {
+        "id": "section-91",
+        "level": 4,
+        "title": "7.2.3. 학습 공동체"
+      },
+      {
+        "id": "section-92",
+        "level": 4,
+        "title": "7.2.4. 자기 반성 및 실행 연구"
+      },
+      {
+        "id": "section-93",
+        "level": 3,
+        "title": "7.3. 실행 지침"
+      },
+      {
+        "id": "section-94",
+        "level": 4,
+        "title": "7.3.1. 시작 단계"
+      },
+      {
+        "id": "section-95",
+        "level": 4,
+        "title": "7.3.2. 실행 단계"
+      },
+      {
+        "id": "section-96",
+        "level": 4,
+        "title": "7.3.3. 조정 및 개선 단계"
+      },
+      {
+        "id": "section-97",
+        "level": 3,
+        "title": "7.4. 실행 시 고려사항"
+      },
+      {
+        "id": "section-98",
+        "level": 4,
+        "title": "7.4.1. 시간 관리"
+      },
+      {
+        "id": "section-99",
+        "level": 4,
+        "title": "7.4.2. 자원 활용"
+      },
+      {
+        "id": "section-100",
+        "level": 4,
+        "title": "7.4.3. 가족 및 지역 사회와의 협력"
+      },
+      {
+        "id": "section-101",
+        "level": 2,
+        "title": "8. 결론 및 제언 (Conclusion and Recommendations)"
+      },
+      {
+        "id": "section-102",
+        "level": 3,
+        "title": "8.1. 요약"
+      },
+      {
+        "id": "section-103",
+        "level": 3,
+        "title": "8.2. 핵심 원칙"
+      },
+      {
+        "id": "section-104",
+        "level": 3,
+        "title": "8.3. 제언"
+      },
+      {
+        "id": "section-105",
+        "level": 4,
+        "title": "8.3.1. 교사를 위한 제언"
+      },
+      {
+        "id": "section-106",
+        "level": 4,
+        "title": "8.3.2. 기관 및 정책 입안자를 위한 제언"
+      },
+      {
+        "id": "section-107",
+        "level": 4,
+        "title": "8.3.3. 연구자를 위한 제언"
+      },
+      {
+        "id": "section-108",
+        "level": 3,
+        "title": "8.4. 맺음말"
+      },
+      {
+        "id": "section-109",
+        "level": 2,
+        "title": "참고문헌 (References)"
+      }
+    ]
+  },
+  {
+    "id": "nature-1",
+    "domain": "nature",
+    "filename": "ai_materials_comprehensive_insights.md",
+    "title": "ai_materials_comprehensive_insights",
+    "relativePath": "AI Theory/자연탐구 영역/ai_materials_comprehensive_insights.md",
+    "bytes": 13141,
+    "sha256": "b236c1218896e88e9eaee7de25452686abd2133ebfa53a18658bef0a086af3dd",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 2,
+        "title": "TL;DR"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "Types of AI tools"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "Creation and development methods"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "Utilization strategies"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "Classroom case studies and outcomes"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "Theoretical foundations"
+      }
+    ]
+  },
+  {
+    "id": "nature-2",
+    "domain": "nature",
+    "filename": "early_childhood_natural_inquiry_materials_guide.md",
+    "title": "유아 교재 교구의 이론과 실제: 자연탐구 영역을 중심으로",
+    "relativePath": "AI Theory/자연탐구 영역/early_childhood_natural_inquiry_materials_guide.md",
+    "bytes": 72719,
+    "sha256": "fe4b74116035101d8129f719ccd389e968600066ae19e215d9d7c3a1ee82a64f",
+    "kind": "general",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 교재 교구의 이론과 실제: 자연탐구 영역을 중심으로"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "Theory and Practice of Early Childhood Educational Materials: Focusing on Natural Inquiry Domain"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "Executive Summary"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "Table of Contents"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "2. 이론적 기초"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "2.1 구성주의와 탐구학습"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "2.2 Piaget의 인지발달이론"
+      },
+      {
+        "id": "section-8",
+        "level": 3,
+        "title": "2.3 Vygotsky의 사회문화이론"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "2.4 Montessori 교육철학"
+      },
+      {
+        "id": "section-10",
+        "level": 2,
+        "title": "3. 자연탐구 영역 교재 교구의 유형"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "3.1 자연물 기반 탐구 자료"
+      },
+      {
+        "id": "section-12",
+        "level": 3,
+        "title": "3.2 과학 탐구 도구 및 키트"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.3 개방형 재료(Loose Parts)"
+      },
+      {
+        "id": "section-14",
+        "level": 3,
+        "title": "3.4 디지털 매체 및 ICT 도구"
+      },
+      {
+        "id": "section-15",
+        "level": 2,
+        "title": "4. 교재 교구 제작 방법"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "4.1 탐구 상자(Research Box) 제작"
+      },
+      {
+        "id": "section-17",
+        "level": 3,
+        "title": "4.2 자연물 학습 센터 구성"
+      },
+      {
+        "id": "section-18",
+        "level": 3,
+        "title": "4.3 STEAM 통합 교재 개발"
+      },
+      {
+        "id": "section-19",
+        "level": 3,
+        "title": "4.4 과제 카드 및 시각 자료 제작"
+      },
+      {
+        "id": "section-20",
+        "level": 2,
+        "title": "5. 교재 교구 활용 방법"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "5.1 탐구 기반 학습 전략"
+      },
+      {
+        "id": "section-22",
+        "level": 3,
+        "title": "5.2 교사의 비계 설정(Scaffolding)"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "5.3 자유 탐색과 구조화된 활동의 균형"
+      },
+      {
+        "id": "section-24",
+        "level": 3,
+        "title": "5.4 가족 및 지역사회 연계"
+      },
+      {
+        "id": "section-25",
+        "level": 2,
+        "title": "6. 예술경험 영역과의 통합"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "6.1 자연탐구와 예술의 융합"
+      },
+      {
+        "id": "section-27",
+        "level": 3,
+        "title": "6.2 재활용 재료를 활용한 창의적 표현"
+      },
+      {
+        "id": "section-28",
+        "level": 3,
+        "title": "6.3 음악과 과학의 통합"
+      },
+      {
+        "id": "section-29",
+        "level": 3,
+        "title": "6.4 전통문화와 예술 통합 사례"
+      },
+      {
+        "id": "section-30",
+        "level": 2,
+        "title": "7. 현장 적용 사례"
+      },
+      {
+        "id": "section-31",
+        "level": 3,
+        "title": "7.1 국내 유치원 사례"
+      },
+      {
+        "id": "section-32",
+        "level": 3,
+        "title": "7.2 국제 사례"
+      },
+      {
+        "id": "section-33",
+        "level": 3,
+        "title": "7.3 성공 요인 및 도전 과제"
+      },
+      {
+        "id": "section-34",
+        "level": 2,
+        "title": "8. 평가 및 개선"
+      },
+      {
+        "id": "section-35",
+        "level": 2,
+        "title": "9. 결론 및 제언"
+      },
+      {
+        "id": "section-36",
+        "level": 2,
+        "title": "References"
+      }
+    ]
+  },
+  {
+    "id": "nature-3",
+    "domain": "nature",
+    "filename": "유아 AI 교재 교구 종류 및 제작, 활용 자연탐구 영역 가이드.md",
+    "title": "유아 AI 교재 교구 종류 및 제작, 활용: 자연탐구 영역",
+    "relativePath": "AI Theory/자연탐구 영역/유아 AI 교재 교구 종류 및 제작, 활용 자연탐구 영역 가이드.md",
+    "bytes": 68324,
+    "sha256": "082ad42dea1b1eda018222da007c1eaa25569dc9e69cc5796fb6ddaebda5a33c",
+    "kind": "ai",
+    "headings": [
+      {
+        "id": "section-0",
+        "level": 1,
+        "title": "유아 AI 교재 교구 종류 및 제작, 활용: 자연탐구 영역"
+      },
+      {
+        "id": "section-1",
+        "level": 2,
+        "title": "A Comprehensive Guide to AI Materials and Tools for Early Childhood Natural Inquiry Education"
+      },
+      {
+        "id": "section-2",
+        "level": 2,
+        "title": "Executive Summary"
+      },
+      {
+        "id": "section-3",
+        "level": 2,
+        "title": "Table of Contents"
+      },
+      {
+        "id": "section-4",
+        "level": 2,
+        "title": "1. 서론"
+      },
+      {
+        "id": "section-5",
+        "level": 2,
+        "title": "2. 이론적 배경"
+      },
+      {
+        "id": "section-6",
+        "level": 3,
+        "title": "2.1 유아교육 이론과 AI 교재 교구"
+      },
+      {
+        "id": "section-7",
+        "level": 3,
+        "title": "2.2 자연탐구 영역의 특성과 AI 통합"
+      },
+      {
+        "id": "section-8",
+        "level": 2,
+        "title": "3. 자연탐구 영역 AI 교재 교구의 종류"
+      },
+      {
+        "id": "section-9",
+        "level": 3,
+        "title": "3.1 로봇 및 소셜 로봇"
+      },
+      {
+        "id": "section-10",
+        "level": 3,
+        "title": "3.2 코딩 완구 및 프로그래밍 도구"
+      },
+      {
+        "id": "section-11",
+        "level": 3,
+        "title": "3.3 센서 및 IoT 기반 탐구 키트"
+      },
+      {
+        "id": "section-12",
+        "level": 3,
+        "title": "3.4 증강현실(AR) 및 홀로그래피 도구"
+      },
+      {
+        "id": "section-13",
+        "level": 3,
+        "title": "3.5 적응형 학습 플랫폼"
+      },
+      {
+        "id": "section-14",
+        "level": 3,
+        "title": "3.6 AI 멀티미디어 및 창작 도구"
+      },
+      {
+        "id": "section-15",
+        "level": 2,
+        "title": "4. AI 교재 교구 제작 방법"
+      },
+      {
+        "id": "section-16",
+        "level": 3,
+        "title": "4.1 설계 원리 및 프레임워크"
+      },
+      {
+        "id": "section-17",
+        "level": 3,
+        "title": "4.2 연령별 적합성 고려사항"
+      },
+      {
+        "id": "section-18",
+        "level": 3,
+        "title": "4.3 반복적 프로토타이핑 및 현장 검증"
+      },
+      {
+        "id": "section-19",
+        "level": 3,
+        "title": "4.4 안전성 및 윤리적 고려사항"
+      },
+      {
+        "id": "section-20",
+        "level": 2,
+        "title": "5. AI 교재 교구 활용 방법"
+      },
+      {
+        "id": "section-21",
+        "level": 3,
+        "title": "5.1 탐구 중심 교수 전략"
+      },
+      {
+        "id": "section-22",
+        "level": 3,
+        "title": "5.2 교사의 역할과 매개"
+      },
+      {
+        "id": "section-23",
+        "level": 3,
+        "title": "5.3 평가 및 관찰 방법"
+      },
+      {
+        "id": "section-24",
+        "level": 3,
+        "title": "5.4 교육과정 통합 전략"
+      },
+      {
+        "id": "section-25",
+        "level": 2,
+        "title": "6. 현장 적용 사례"
+      },
+      {
+        "id": "section-26",
+        "level": 3,
+        "title": "6.1 PopBots 소셜 로봇 커리큘럼"
+      },
+      {
+        "id": "section-27",
+        "level": 3,
+        "title": "6.2 AI 인터페이스 로봇 완구(Qobo) 활용 사례"
+      },
+      {
+        "id": "section-28",
+        "level": 3,
+        "title": "6.3 자기장 개념 교육을 위한 AI 도구 활용"
+      },
+      {
+        "id": "section-29",
+        "level": 3,
+        "title": "6.4 체화된 AI 학습 사례"
+      },
+      {
+        "id": "section-30",
+        "level": 3,
+        "title": "6.5 한국 유치원 AI 로봇 장기 노출 연구"
+      },
+      {
+        "id": "section-31",
+        "level": 2,
+        "title": "7. 논의 및 제언"
+      },
+      {
+        "id": "section-32",
+        "level": 3,
+        "title": "7.1 효과성과 한계"
+      },
+      {
+        "id": "section-33",
+        "level": 3,
+        "title": "7.2 교사 전문성 개발"
+      },
+      {
+        "id": "section-34",
+        "level": 3,
+        "title": "7.3 향후 연구 방향"
+      },
+      {
+        "id": "section-35",
+        "level": 2,
+        "title": "8. 결론"
+      },
+      {
+        "id": "section-36",
+        "level": 2,
+        "title": "References"
+      }
+    ]
+  }
+]
