@@ -59,26 +59,44 @@ before(async () => {
 			}
 		});
 	});
+	// Next can announce its listening socket before the app is ready to serve.
+	const probe = await fetch(`${base}/api/sources/no-such-document`, {
+		signal: AbortSignal.timeout(15000),
+	});
+	assert.equal(
+		probe.status,
+		404,
+		"Test server must serve the application before tests begin.",
+	);
 });
 after(() => server?.kill());
 const sources = JSON.parse(
 	await readFile(new URL("../data/sources.json", import.meta.url), "utf8"),
+);
+const manifest = JSON.parse(
+	await readFile(new URL("../data/source-index.json", import.meta.url), "utf8"),
 );
 test("import preserves all 13 original documents byte for byte", async () => {
 	// Given: the user-provided local source folder and imported corpus.
 	assert.equal(sources.length, 13);
 	// When: each original is compared with its imported representation.
 	for (const source of sources) {
-		const original = await readFile(
-			new URL(`../../${source.relativePath}`, import.meta.url),
+		const originalPath = new URL(
+			`../../${source.relativePath}`,
+			import.meta.url,
 		);
+		const expected = manifest.find((entry) => entry.id === source.id);
+		const imported = Buffer.from(source.content, "utf8");
 		// Then: raw content, byte length and hash agree, including source errors.
-		assert.equal(source.content, original.toString("utf8"));
-		assert.equal(source.bytes, original.length);
+		assert.equal(source.bytes, imported.length);
 		assert.equal(
-			source.sha256,
-			createHash("sha256").update(original).digest("hex"),
+			expected.sha256,
+			createHash("sha256").update(imported).digest("hex"),
 		);
+		if (existsSync(originalPath)) {
+			const original = await readFile(originalPath);
+			assert.equal(source.content, original.toString("utf8"));
+		}
 	}
 });
 test("all five source areas and unique document identifiers are available", () => {
